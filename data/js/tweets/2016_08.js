@@ -1,6 +1,1343 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 22:36:29 +0000 2016",
+		"id": 769302525539455000,
+		"id_str": "769302525539454981",
+		"text": "@Bali_Maha “This comment thread is turning into an unconference” Haha, just caught up with the comment thread and loved that line.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				38.22432952,
+				-77.49014422
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-77.49014422,
+				38.22432952
+			]
+		},
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 20:48:00 +0000 2016",
+		"id": 769275225041174500,
+		"id_str": "769275225041174528",
+		"text": "@haley_exe Awesome to hear you’ve been playing with it! I want to play more with Grav for sure, seems fun in some way.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haley_exe",
+					"name": "Haley",
+					"id": 183016733,
+					"id_str": "183016733",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 769274997202387000,
+		"in_reply_to_status_id_str": "769274997202386944",
+		"in_reply_to_user_id": 183016733,
+		"in_reply_to_user_id_str": "183016733",
+		"in_reply_to_screen_name": "haley_exe",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				38.22423461,
+				-77.49038369
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-77.49038369,
+				38.22423461
+			]
+		},
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 19:33:06 +0000 2016",
+		"id": 769256373930627100,
+		"id_str": "769256373930627076",
+		"text": "Any @getgrav folks and fans have any insight into how menus work and want to respond? https://t.co/NwRt2JL9nk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "getgrav",
+					"name": "Grav",
+					"id": 2737573033,
+					"id_str": "2737573033",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NwRt2JL9nk",
+					"expanded_url": "https://community.reclaimhosting.com/t/using-grav-for-the-first-time-question-about-grav-menus/254",
+					"display_url": "community.reclaimhosting.com/t/using-grav-f…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 19:11:10 +0000 2016",
+		"id": 769250853819670500,
+		"id_str": "769250853819670528",
+		"text": "@acroom I’ve been watching this like a hawk https://t.co/EUKoQd9YkS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acroom",
+					"name": "Adam Croom",
+					"id": 19056987,
+					"id_str": "19056987",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EUKoQd9YkS",
+					"expanded_url": "https://features.cpanel.net/topic/multiple-cpanel-logins-cpanel-subusers",
+					"display_url": "features.cpanel.net/topic/multiple…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 769250697548357600,
+		"in_reply_to_status_id_str": "769250697548357633",
+		"in_reply_to_user_id": 185375498,
+		"in_reply_to_user_id_str": "185375498",
+		"in_reply_to_screen_name": "timmmmyboy",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 19:10:32 +0000 2016",
+		"id": 769250697548357600,
+		"id_str": "769250697548357633",
+		"text": "@acroom @Brumface wrote a decent guide on it https://t.co/Cz8DjHSPtb but in short User Manager does not add users to cPanel.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acroom",
+					"name": "Adam Croom",
+					"id": 19056987,
+					"id_str": "19056987",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Brumface",
+					"name": "Lauren Brumfield",
+					"id": 60716903,
+					"id_str": "60716903",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cz8DjHSPtb",
+					"expanded_url": "http://docs.reclaimhosting.com/miscellaneous/new-user-manager-in-cpanel",
+					"display_url": "docs.reclaimhosting.com/miscellaneous/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 769250265711063000,
+		"in_reply_to_status_id_str": "769250265711063040",
+		"in_reply_to_user_id": 19056987,
+		"in_reply_to_user_id_str": "19056987",
+		"in_reply_to_screen_name": "acroom",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 19:05:44 +0000 2016",
+		"id": 769249489387417600,
+		"id_str": "769249489387417601",
+		"text": "No less than 5 people this week alone confused by User Management in cPanel. True multi-user support can’t come soon enough.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				38.22391992,
+				-77.49082077
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-77.49082077,
+				38.22391992
+			]
+		},
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 19:04:44 +0000 2016",
+		"id": 769249236101828600,
+		"id_str": "769249236101828620",
+		"text": "@sleonchnm Awww, thanks!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sleonchnm",
+					"name": "Sharon Leon",
+					"id": 9893782,
+					"id_str": "9893782",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 769245435005468700,
+		"in_reply_to_status_id_str": "769245435005468672",
+		"in_reply_to_user_id": 9893782,
+		"in_reply_to_user_id_str": "9893782",
+		"in_reply_to_screen_name": "sleonchnm",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				38.22391992,
+				-77.49082077
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-77.49082077,
+				38.22391992
+			]
+		},
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 02:43:57 +0000 2016",
+		"id": 769002414485700600,
+		"id_str": "769002414485700609",
+		"text": "@jonathan0wens Nah I’m just fuckin with ya. :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonathan0wens",
+					"name": "Jonathan Owens",
+					"id": 101623223,
+					"id_str": "101623223",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 768994311602073600,
+		"in_reply_to_status_id_str": "768994311602073600",
+		"in_reply_to_user_id": 101623223,
+		"in_reply_to_user_id_str": "101623223",
+		"in_reply_to_screen_name": "jonathan0wens",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				38.22435177,
+				-77.49009653
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-77.49009653,
+				38.22435177
+			]
+		},
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 02:34:48 +0000 2016",
+		"id": 769000112802717700,
+		"id_str": "769000112802717696",
+		"text": "@mvrteacher I certainly wouldn’t click the link. Looks like someone else’s phone got a virus or something and started sending out txts.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mvrteacher",
+					"name": "Vicki Fawcett-Adams",
+					"id": 18093439,
+					"id_str": "18093439",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 768993912413298700,
+		"in_reply_to_status_id_str": "768993912413298689",
+		"in_reply_to_user_id": 18093439,
+		"in_reply_to_user_id_str": "18093439",
+		"in_reply_to_screen_name": "mvrteacher",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				38.22438534,
+				-77.49011878
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-77.49011878,
+				38.22438534
+			]
+		},
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 01:44:02 +0000 2016",
+		"id": 768987336680046600,
+		"id_str": "768987336680046592",
+		"text": "@jonathan0wens FB Live as the smoke rises from your crotch and the smell hits you.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonathan0wens",
+					"name": "Jonathan Owens",
+					"id": 101623223,
+					"id_str": "101623223",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 768984055044079600,
+		"in_reply_to_status_id_str": "768984055044079616",
+		"in_reply_to_user_id": 101623223,
+		"in_reply_to_user_id_str": "101623223",
+		"in_reply_to_screen_name": "jonathan0wens",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 797,
+			"listed_count": 106,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 734,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				38.22446096,
+				-77.49023881
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-77.49023881,
+				38.22446096
+			]
+		},
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 25 16:46:24 +0000 2016",
 		"id": 768852034955141100,
 		"id_str": "768852034955141120",
