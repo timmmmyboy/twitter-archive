@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 20:08:37 +0000 2016",
+		"id": 776150682026082300,
+		"id_str": "776150682026082304",
+		"text": "RT @rjgux: https://t.co/A9q07mWjlm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rjgux",
+					"name": "Richard George",
+					"id": 20632733,
+					"id_str": "20632733",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 776106836000960500,
+					"id_str": "776106836000960512",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+					"url": "https://t.co/A9q07mWjlm",
+					"display_url": "pic.twitter.com/A9q07mWjlm",
+					"expanded_url": "https://twitter.com/rjgux/status/776106837607350272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776106837607350300,
+					"source_status_id_str": "776106837607350272",
+					"source_user_id": 20632733,
+					"source_user_id_str": "20632733"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776106836000960500,
+					"id_str": "776106836000960512",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+					"url": "https://t.co/A9q07mWjlm",
+					"display_url": "pic.twitter.com/A9q07mWjlm",
+					"expanded_url": "https://twitter.com/rjgux/status/776106837607350272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776106837607350300,
+					"source_status_id_str": "776106837607350272",
+					"source_user_id": 20632733,
+					"source_user_id_str": "20632733"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 795,
+			"listed_count": 109,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 739,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19189,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568657249413767168/lnu_2bhL_normal.jpeg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 14 17:14:24 +0000 2016",
+			"id": 776106837607350300,
+			"id_str": "776106837607350272",
+			"text": "https://t.co/A9q07mWjlm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 776106836000960500,
+						"id_str": "776106836000960512",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+						"url": "https://t.co/A9q07mWjlm",
+						"display_url": "pic.twitter.com/A9q07mWjlm",
+						"expanded_url": "https://twitter.com/rjgux/status/776106837607350272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 660,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 660,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 660,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776106836000960500,
+						"id_str": "776106836000960512",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsVJDiuW8AAy7Lw.jpg",
+						"url": "https://t.co/A9q07mWjlm",
+						"display_url": "pic.twitter.com/A9q07mWjlm",
+						"expanded_url": "https://twitter.com/rjgux/status/776106837607350272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 660,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 660,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 660,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20632733,
+				"id_str": "20632733",
+				"name": "Richard George",
+				"screen_name": "rjgux",
+				"location": "England",
+				"description": "Web Dev / Bristol Rovers / Jaguars",
+				"url": "https://t.co/cb7Z0Vx1I8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cb7Z0Vx1I8",
+								"expanded_url": "https://rjg.io",
+								"display_url": "rjg.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 623,
+				"friends_count": 389,
+				"listed_count": 15,
+				"created_at": "Wed Feb 11 21:58:08 +0000 2009",
+				"favourites_count": 3022,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9131,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000101437954/b66453d7222e03050bede6f384d9de3d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000101437954/b66453d7222e03050bede6f384d9de3d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/628247440236392448/ONNoKy1F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/628247440236392448/ONNoKy1F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20632733/1444332975",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Sep 13 04:05:35 +0000 2016",
 		"id": 775545937414524900,
 		"id_str": "775545937414524928",
