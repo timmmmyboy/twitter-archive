@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 27 22:35:48 +0000 2016",
+		"id": 813876059510886400,
+		"id_str": "813876059510886401",
+		"text": "Y’all. My daughter’s new Barbie house has a freakin flat panel TV (phone insert). What in the… https://t.co/I9OMa86x6N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 813876053278081000,
+					"id_str": "813876053278081025",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C0t39VbWQAEvTLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0t39VbWQAEvTLO.jpg",
+					"url": "https://t.co/I9OMa86x6N",
+					"display_url": "pic.twitter.com/I9OMa86x6N",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/813876059510886401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 813876053278081000,
+					"id_str": "813876053278081025",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C0t39VbWQAEvTLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0t39VbWQAEvTLO.jpg",
+					"url": "https://t.co/I9OMa86x6N",
+					"display_url": "pic.twitter.com/I9OMa86x6N",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/813876059510886401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1562,
+			"friends_count": 823,
+			"listed_count": 108,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 800,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19277,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 27 17:53:24 +0000 2016",
+		"id": 813804990045229000,
+		"id_str": "813804990045229057",
+		"text": "@vivienrolfe @reclaimhosting @ds106 This is fantastic!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VivienRolfe",
+					"name": "Viv Rolfe",
+					"id": 214901910,
+					"id_str": "214901910",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "ds106",
+					"name": "ds106 is #4life",
+					"id": 104730042,
+					"id_str": "104730042",
+					"indices": [
+						29,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 813791881184374800,
+		"in_reply_to_status_id_str": "813791881184374784",
+		"in_reply_to_user_id": 214901910,
+		"in_reply_to_user_id_str": "214901910",
+		"in_reply_to_screen_name": "VivienRolfe",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1562,
+			"friends_count": 823,
+			"listed_count": 108,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 800,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19277,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 26 14:27:40 +0000 2016",
 		"id": 813390829675020300,
 		"id_str": "813390829675020288",
