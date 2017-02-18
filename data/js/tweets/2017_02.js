@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 01:41:35 +0000 2017",
+		"id": 832404595741704200,
+		"id_str": "832404595741704192",
+		"text": "RT @audreywatters: What's on the Horizon (Still, Again, Always) for Ed-Tech https://t.co/TK4h3IkIpH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TK4h3IkIpH",
+					"expanded_url": "http://hackeducation.com/2017/02/16/horizon",
+					"display_url": "hackeducation.com/2017/02/16/hor…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 821,
+			"listed_count": 110,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 827,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 17 01:23:38 +0000 2017",
+			"id": 832400080086917100,
+			"id_str": "832400080086917122",
+			"text": "What's on the Horizon (Still, Again, Always) for Ed-Tech https://t.co/TK4h3IkIpH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TK4h3IkIpH",
+						"expanded_url": "http://hackeducation.com/2017/02/16/horizon",
+						"display_url": "hackeducation.com/2017/02/16/hor…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25388528,
+				"id_str": "25388528",
+				"name": "Audrey Watters",
+				"screen_name": "audreywatters",
+				"location": "",
+				"description": "writer @hackeducation (https://t.co/PhUUb6Oebq), ed-tech's Cassandra, author of The Monsters of Education Technology. \"be less pigeon\"",
+				"url": "https://t.co/lhZGTdf7k2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lhZGTdf7k2",
+								"expanded_url": "http://audreywatters.com",
+								"display_url": "audreywatters.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PhUUb6Oebq",
+								"expanded_url": "http://hackeducation.com",
+								"display_url": "hackeducation.com",
+								"indices": [
+									23,
+									46
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 34890,
+				"friends_count": 795,
+				"listed_count": 2548,
+				"created_at": "Thu Mar 19 21:23:22 +0000 2009",
+				"favourites_count": 26517,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39494,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "060808",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/353470119/IMG_0181.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/353470119/IMG_0181.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711668009723498496/pauFZsdv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711668009723498496/pauFZsdv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25388528/1464567280",
+				"profile_link_color": "505C56",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "262126",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 14,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 17 01:00:32 +0000 2017",
+		"id": 832394264491524100,
+		"id_str": "832394264491524096",
+		"text": "@brumface “He said it was more of an impulse purchase.” 🙃",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brumface",
+					"name": "Lauren Brumfield",
+					"id": 60716903,
+					"id_str": "60716903",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 832387492385001500,
+		"in_reply_to_status_id_str": "832387492385001472",
+		"in_reply_to_user_id": 60716903,
+		"in_reply_to_user_id_str": "60716903",
+		"in_reply_to_screen_name": "brumface",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 821,
+			"listed_count": 110,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 827,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 11 20:56:14 +0000 2017",
 		"id": 830520843214131200,
 		"id_str": "830520843214131200",
