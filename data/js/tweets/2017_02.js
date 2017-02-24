@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 15:33:31 +0000 2017",
+		"id": 834788286728138800,
+		"id_str": "834788286728138752",
+		"text": "@ken_bauer Related to recent discussion https://t.co/JWLeW9Lj2w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JWLeW9Lj2w",
+					"expanded_url": "https://twitter.com/cogdog/status/834782540066062336",
+					"display_url": "twitter.com/cogdog/status/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16033586,
+		"in_reply_to_user_id_str": "16033586",
+		"in_reply_to_screen_name": "ken_bauer",
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 820,
+			"listed_count": 111,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 829,
+			"utc_offset": -14400,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 834782540066062300,
+		"quoted_status_id_str": "834782540066062336",
+		"quoted_status": {
+			"created_at": "Thu Feb 23 15:10:41 +0000 2017",
+			"id": 834782540066062300,
+			"id_str": "834782540066062336",
+			"text": "The Feed WordPress Featured Image Not So Merry Go Round https://t.co/IlMqrePXU9 https://t.co/jnj5sbSonc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IlMqrePXU9",
+						"expanded_url": "http://cogdogblog.com/2017/02/not-so-merry-go-round/",
+						"display_url": "cogdogblog.com/2017/02/not-so…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 834782537570332700,
+						"id_str": "834782537570332674",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C5W-S4iUMAIrHmg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5W-S4iUMAIrHmg.jpg",
+						"url": "https://t.co/jnj5sbSonc",
+						"display_url": "pic.twitter.com/jnj5sbSonc",
+						"expanded_url": "https://twitter.com/cogdog/status/834782540066062336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 834782537570332700,
+						"id_str": "834782537570332674",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C5W-S4iUMAIrHmg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5W-S4iUMAIrHmg.jpg",
+						"url": "https://t.co/jnj5sbSonc",
+						"display_url": "pic.twitter.com/jnj5sbSonc",
+						"expanded_url": "https://twitter.com/cogdog/status/834782540066062336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740343,
+				"id_str": "740343",
+				"name": "Alan Levine",
+				"screen_name": "cogdog",
+				"location": "Strawberry, Arizona",
+				"description": "Barks about and plays with web tech at https://t.co/ZxC70Ze4em Digs photography, guitars, #ds106, mocking MOOCs, biking, coding, the Who. Has shots.",
+				"url": "https://t.co/wAzdfm9TIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wAzdfm9TIB",
+								"expanded_url": "http://cog.dog",
+								"display_url": "cog.dog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZxC70Ze4em",
+								"expanded_url": "http://cogdogblog.com",
+								"display_url": "cogdogblog.com",
+								"indices": [
+									39,
+									62
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10102,
+				"friends_count": 1322,
+				"listed_count": 784,
+				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+				"favourites_count": 730,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77960,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88763117/dog2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 22 02:45:10 +0000 2017",
 		"id": 834232534007414800,
 		"id_str": "834232534007414785",
