@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 21:59:55 +0000 2017",
+		"id": 844669999981772800,
+		"id_str": "844669999981772800",
+		"text": "This was a fun conversation, looking forward to more of these as the conference gets closer! https://t.co/Gbxzj956Fv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gbxzj956Fv",
+					"expanded_url": "https://twitter.com/reclaimhosting/status/844487116172251136",
+					"display_url": "twitter.com/reclaimhosting…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 821,
+			"listed_count": 111,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 851,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 844487116172251100,
+		"quoted_status_id_str": "844487116172251136",
+		"quoted_status": {
+			"created_at": "Wed Mar 22 09:53:12 +0000 2017",
+			"id": 844487116172251100,
+			"id_str": "844487116172251136",
+			"text": "On the fence about @DomainsConf this June? Check out conversations w/ @mburtis on web literacy as cultural literacy. https://t.co/gKEFojFHhZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DomainsConf",
+						"name": "Domains",
+						"id": 808349016157257700,
+						"id_str": "808349016157257728",
+						"indices": [
+							19,
+							31
+						]
+					},
+					{
+						"screen_name": "mburtis",
+						"name": "Martha",
+						"id": 744533,
+						"id_str": "744533",
+						"indices": [
+							70,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gKEFojFHhZ",
+						"expanded_url": "http://bavatuesdays.com/domains-17-interview-with-martha-burtis-web-literacy-is-cultural-literacy/",
+						"display_url": "bavatuesdays.com/domains-17-int…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1602053274,
+				"id_str": "1602053274",
+				"name": "Reclaim Hosting",
+				"screen_name": "ReclaimHosting",
+				"location": "",
+				"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.",
+				"url": "https://t.co/7YLSpKrSJW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7YLSpKrSJW",
+								"expanded_url": "https://reclaimhosting.com",
+								"display_url": "reclaimhosting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1080,
+				"friends_count": 259,
+				"listed_count": 37,
+				"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+				"favourites_count": 120,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710868507144167424/Aj9k9RM2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710868507144167424/Aj9k9RM2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1458319397",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 21 11:37:17 +0000 2017",
 		"id": 844150918824312800,
 		"id_str": "844150918824312833",
