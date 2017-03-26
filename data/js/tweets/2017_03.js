@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 00:38:10 +0000 2017",
+		"id": 845434600486776800,
+		"id_str": "845434600486776832",
+		"text": "Spot a Tired Timmmmy https://t.co/MBiNauxn4X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MBiNauxn4X",
+					"expanded_url": "https://twitter.com/rarecrossfit/status/845409254404227073",
+					"display_url": "twitter.com/rarecrossfit/s…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185375498,
+			"id_str": "185375498",
+			"name": "Tim Owens",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-Founder at Reclaim Hosting. ❤️ and Retweets are totally an endorsement. No one pays me for them though (yet…)",
+			"url": "https://t.co/2XAn4AKqCb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XAn4AKqCb",
+							"expanded_url": "https://timowens.io/",
+							"display_url": "timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 821,
+			"listed_count": 111,
+			"created_at": "Tue Aug 31 21:01:27 +0000 2010",
+			"favourites_count": 852,
+			"utc_offset": -10800,
+			"time_zone": "Atlantic Time (Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/795730648388476929/6rqMx1f5_normal.jpg",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845409254404227100,
+		"quoted_status_id_str": "845409254404227073",
+		"quoted_status": {
+			"created_at": "Fri Mar 24 22:57:27 +0000 2017",
+			"id": 845409254404227100,
+			"id_str": "845409254404227073",
+			"text": "Friday night... under the lights!\n#rarestrong #rarecrossfit #rarecommunity… https://t.co/GAjk3jSB1M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rarestrong",
+						"indices": [
+							34,
+							45
+						]
+					},
+					{
+						"text": "rarecrossfit",
+						"indices": [
+							46,
+							59
+						]
+					},
+					{
+						"text": "rarecommunity",
+						"indices": [
+							60,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GAjk3jSB1M",
+						"expanded_url": "https://www.instagram.com/p/BSCde02AA4q/",
+						"display_url": "instagram.com/p/BSCde02AA4q/",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1071692875,
+				"id_str": "1071692875",
+				"name": "RARE CrossFit",
+				"screen_name": "rarecrossfit",
+				"location": "Fredericksburg, VA",
+				"description": "RARE is Fredericksburgs' Premier CrossFit, Boot Camp, Nutrition, Olympic Lifting and Running Endurance facility",
+				"url": "http://t.co/j6CTowDqYO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j6CTowDqYO",
+								"expanded_url": "http://www.rarecrossfit.com",
+								"display_url": "rarecrossfit.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 160,
+				"friends_count": 107,
+				"listed_count": 6,
+				"created_at": "Tue Jan 08 18:47:32 +0000 2013",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/578644837869621248/qyG3_m-w_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/578644837869621248/qyG3_m-w_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1071692875/1417872399",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 24 16:47:31 +0000 2017",
 		"id": 845316154650480600,
 		"id_str": "845316154650480640",
