@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 29 01:59:35 +0000 2018",
+		"id": 1034621554318102500,
+		"id_str": "1034621554318102528",
+		"text": "@colinmadland @twoodwar @NeverSettleIT @grantpotter @TroyWelch1 @cogdog If I’m looking at the right page, I see all… https://t.co/NsXJUTMf9m",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colinmadland",
+					"name": "Colin Madland",
+					"id": 81038069,
+					"id_str": "81038069",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "NeverSettleIT",
+					"name": "🅽🅴🆅🅴🆁 🆂🅴🆃🆃🅻🅴",
+					"id": 891857875,
+					"id_str": "891857875",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "TroyWelch1",
+					"name": "Troy Welch",
+					"id": 331120877,
+					"id_str": "331120877",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine ☠",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NsXJUTMf9m",
+					"expanded_url": "https://twitter.com/i/web/status/1034621554318102528",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1034559404954153000,
+		"in_reply_to_status_id_str": "1034559404954152960",
+		"in_reply_to_user_id": 81038069,
+		"in_reply_to_user_id_str": "81038069",
+		"in_reply_to_screen_name": "colinmadland",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 246,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 29 01:53:09 +0000 2018",
+		"id": 1034619934758846500,
+		"id_str": "1034619934758846464",
+		"text": "@colinmadland @twoodwar @NeverSettleIT @grantpotter @TroyWelch1 @cogdog Happy to take a peak as well but much smart… https://t.co/N4B5Xdi5AL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colinmadland",
+					"name": "Colin Madland",
+					"id": 81038069,
+					"id_str": "81038069",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "NeverSettleIT",
+					"name": "🅽🅴🆅🅴🆁 🆂🅴🆃🆃🅻🅴",
+					"id": 891857875,
+					"id_str": "891857875",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "TroyWelch1",
+					"name": "Troy Welch",
+					"id": 331120877,
+					"id_str": "331120877",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine ☠",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						64,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N4B5Xdi5AL",
+					"expanded_url": "https://twitter.com/i/web/status/1034619934758846464",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1034559404954153000,
+		"in_reply_to_status_id_str": "1034559404954152960",
+		"in_reply_to_user_id": 81038069,
+		"in_reply_to_user_id_str": "81038069",
+		"in_reply_to_screen_name": "colinmadland",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 246,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 29 01:37:57 +0000 2018",
+		"id": 1034616111986368500,
+		"id_str": "1034616111986368513",
+		"text": "@Call_Me_Doyle Could have been much worse I suppose. :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Call_Me_Doyle",
+					"name": "Michael Doyle",
+					"id": 175861593,
+					"id_str": "175861593",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1034600862474297300,
+		"in_reply_to_status_id_str": "1034600862474297344",
+		"in_reply_to_user_id": 175861593,
+		"in_reply_to_user_id_str": "175861593",
+		"in_reply_to_screen_name": "Call_Me_Doyle",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 246,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 29 00:32:33 +0000 2018",
 		"id": 1034599651901620200,
 		"id_str": "1034599651901620224",
