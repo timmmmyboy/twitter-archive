@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 18:04:54 +0000 2018",
+		"id": 1050809550004207600,
+		"id_str": "1050809550004207618",
+		"full_text": "@jessreingold @smithpres @Jessifer https://t.co/4mkpsfcFdh",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jessreingold",
+					"name": "Jess Reingold",
+					"id": 578552536,
+					"id_str": "578552536",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "smithpres",
+					"name": "Andréa Livi Smith",
+					"id": 190244990,
+					"id_str": "190244990",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050809491829055500,
+					"id_str": "1050809491829055490",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpU5qlcUYAIS7vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpU5qlcUYAIS7vd.jpg",
+					"url": "https://t.co/4mkpsfcFdh",
+					"display_url": "pic.twitter.com/4mkpsfcFdh",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1050809550004207618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050809491829055500,
+					"id_str": "1050809491829055490",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpU5qlcUYAIS7vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpU5qlcUYAIS7vd.jpg",
+					"url": "https://t.co/4mkpsfcFdh",
+					"display_url": "pic.twitter.com/4mkpsfcFdh",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1050809550004207618/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpU5qlcUYAIS7vd.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1050808914760093700,
+		"in_reply_to_status_id_str": "1050808914760093697",
+		"in_reply_to_user_id": 578552536,
+		"in_reply_to_user_id_str": "578552536",
+		"in_reply_to_screen_name": "jessreingold",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144,
+			"friends_count": 247,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@jessreingold @smithpres @Jessifer https://t.co/4mkpsfcFdh"
+	},
+	{
 		"created_at": "Wed Oct 10 22:41:34 +0000 2018",
 		"id": 1050154400394686500,
 		"id_str": "1050154400394686464",
