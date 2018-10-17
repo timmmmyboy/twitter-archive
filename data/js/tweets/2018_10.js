@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 16 08:37:38 +0000 2018",
+		"id": 1052116343829356500,
+		"id_str": "1052116343829356545",
+		"full_text": "embedding @glitch projects into @revealjs slides has got to be one of coolest mashups of the web, ever. these are real interactive, inline demos! https://t.co/KCUO8gFiAg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glitch",
+					"name": "🎏Glitch",
+					"id": 795717775989833700,
+					"id_str": "795717775989833729",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "revealjs",
+					"name": "reveal.js",
+					"id": 1653133514,
+					"id_str": "1653133514",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052116339878326300,
+					"id_str": "1052116339878326274",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"url": "https://t.co/KCUO8gFiAg",
+					"display_url": "pic.twitter.com/KCUO8gFiAg",
+					"expanded_url": "https://twitter.com/thatethanlee/status/1052116343829356545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052116339878326300,
+					"id_str": "1052116339878326274",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"url": "https://t.co/KCUO8gFiAg",
+					"display_url": "pic.twitter.com/KCUO8gFiAg",
+					"expanded_url": "https://twitter.com/thatethanlee/status/1052116343829356545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1791718950,
+			"id_str": "1791718950",
+			"name": "Ethan Lee",
+			"screen_name": "thatethanlee",
+			"location": "Berkeley, CA",
+			"description": "Loves the free and open Internet! @calblueprint @innodatcal",
+			"url": "https://t.co/p9uwnmpame",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p9uwnmpame",
+							"expanded_url": "http://ethanl.ee",
+							"display_url": "ethanl.ee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 499,
+			"listed_count": 4,
+			"created_at": "Sun Sep 08 00:42:07 +0000 2013",
+			"favourites_count": 1341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 589,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051565953652154368/e9vlE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051565953652154368/e9vlE372_normal.jpg",
+			"profile_link_color": "E0E0E0",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "embedding @glitch projects into @revealjs slides has got to be one of coolest mashups of the web, ever. these are real interactive, inline demos! https://t.co/KCUO8gFiAg"
+	},
+	{
 		"created_at": "Mon Oct 15 12:33:31 +0000 2018",
 		"id": 1051813319873564700,
 		"id_str": "1051813319873564672",
