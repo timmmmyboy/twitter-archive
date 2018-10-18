@@ -1,6 +1,723 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 22:52:40 +0000 2018",
+		"id": 1052693907669221400,
+		"id_str": "1052693907669221377",
+		"full_text": "A very useful integration in Slack: Notifications from new spreadsheet rows (and thus Google Form submissions) https://t.co/viPu7CvEAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/viPu7CvEAn",
+					"expanded_url": "https://twitter.com/brumface/status/1052657735253278720",
+					"display_url": "twitter.com/brumface/statu…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147,
+			"friends_count": 249,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 93,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052657735253278700,
+		"quoted_status_id_str": "1052657735253278720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/viPu7CvEAn",
+			"expanded": "https://twitter.com/brumface/status/1052657735253278720",
+			"display": "twitter.com/brumface/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 20:28:56 +0000 2018",
+			"id": 1052657735253278700,
+			"id_str": "1052657735253278720",
+			"full_text": "Using Incoming Webhooks to push Google Form submissions to @SlackHQ channels // https://t.co/9SJsNks2CW cc:@googledocs, @ReclaimHosting https://t.co/DELsN1XfQL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SlackHQ",
+						"name": "Slack",
+						"id": 1305940272,
+						"id_str": "1305940272",
+						"indices": [
+							59,
+							67
+						]
+					},
+					{
+						"screen_name": "googledocs",
+						"name": "Google Docs",
+						"id": 488683847,
+						"id_str": "488683847",
+						"indices": [
+							107,
+							118
+						]
+					},
+					{
+						"screen_name": "ReclaimHosting",
+						"name": "Reclaim Hosting",
+						"id": 1602053274,
+						"id_str": "1602053274",
+						"indices": [
+							120,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9SJsNks2CW",
+						"expanded_url": "https://labrumfield.com/google-forms-to-slack-with-webhooks/",
+						"display_url": "labrumfield.com/google-forms-t…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1052657325641592800,
+						"id_str": "1052657325641592832",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/media/DpvKQq0UcAAeiFf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpvKQq0UcAAeiFf.jpg",
+						"url": "https://t.co/DELsN1XfQL",
+						"display_url": "pic.twitter.com/DELsN1XfQL",
+						"expanded_url": "https://twitter.com/brumface/status/1052657735253278720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 899,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 899,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052657325641592800,
+						"id_str": "1052657325641592832",
+						"indices": [
+							136,
+							159
+						],
+						"media_url": "http://pbs.twimg.com/media/DpvKQq0UcAAeiFf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpvKQq0UcAAeiFf.jpg",
+						"url": "https://t.co/DELsN1XfQL",
+						"display_url": "pic.twitter.com/DELsN1XfQL",
+						"expanded_url": "https://twitter.com/brumface/status/1052657735253278720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 899,
+								"h": 471,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 899,
+								"h": 471,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60716903,
+				"id_str": "60716903",
+				"name": "Lauren Brumfield",
+				"screen_name": "brumface",
+				"location": "Fredericksburg, VA",
+				"description": "Account Manager at @ReclaimHosting",
+				"url": "https://t.co/H7lXS2DGUs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7lXS2DGUs",
+								"expanded_url": "http://labrumfield.com",
+								"display_url": "labrumfield.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 497,
+				"friends_count": 358,
+				"listed_count": 13,
+				"created_at": "Mon Jul 27 21:33:40 +0000 2009",
+				"favourites_count": 3930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C5EBDC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928657549787848704/zpA56LEZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928657549787848704/zpA56LEZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60716903/1539292110",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "332F2B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A very useful integration in Slack: Notifications from new spreadsheet rows (and thus Google Form submissions) https://t.co/viPu7CvEAn"
+	},
+	{
+		"created_at": "Wed Oct 17 17:15:52 +0000 2018",
+		"id": 1052609149647970300,
+		"id_str": "1052609149647970304",
+		"full_text": "@ammienoot Rockin that extended validation cert too https://t.co/ChU5SCzaCB",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052609119708999700,
+					"id_str": "1052609119708999680",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpueatuXcAA2IIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpueatuXcAA2IIb.jpg",
+					"url": "https://t.co/ChU5SCzaCB",
+					"display_url": "pic.twitter.com/ChU5SCzaCB",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1052609149647970304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 514,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 514,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052609119708999700,
+					"id_str": "1052609119708999680",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpueatuXcAA2IIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpueatuXcAA2IIb.jpg",
+					"url": "https://t.co/ChU5SCzaCB",
+					"display_url": "pic.twitter.com/ChU5SCzaCB",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1052609149647970304/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 514,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 514,
+							"h": 514,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpueatuXcAA2IIb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1052570891702476800,
+		"in_reply_to_status_id_str": "1052570891702476802",
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147,
+			"friends_count": 249,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 93,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ammienoot Rockin that extended validation cert too https://t.co/ChU5SCzaCB"
+	},
+	{
+		"created_at": "Tue Oct 16 08:37:38 +0000 2018",
+		"id": 1052116343829356500,
+		"id_str": "1052116343829356545",
+		"full_text": "embedding @glitch projects into @revealjs slides has got to be one of coolest mashups of the web, ever. these are real interactive, inline demos! https://t.co/KCUO8gFiAg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glitch",
+					"name": "🎏Glitch",
+					"id": 795717775989833700,
+					"id_str": "795717775989833729",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "revealjs",
+					"name": "reveal.js",
+					"id": 1653133514,
+					"id_str": "1653133514",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052116339878326300,
+					"id_str": "1052116339878326274",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"url": "https://t.co/KCUO8gFiAg",
+					"display_url": "pic.twitter.com/KCUO8gFiAg",
+					"expanded_url": "https://twitter.com/thatethanlee/status/1052116343829356545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052116339878326300,
+					"id_str": "1052116339878326274",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpnePJzU8AIJMTp.jpg",
+					"url": "https://t.co/KCUO8gFiAg",
+					"display_url": "pic.twitter.com/KCUO8gFiAg",
+					"expanded_url": "https://twitter.com/thatethanlee/status/1052116343829356545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1791718950,
+			"id_str": "1791718950",
+			"name": "Ethan Lee",
+			"screen_name": "thatethanlee",
+			"location": "Berkeley, CA",
+			"description": "Loves the free and open Internet! @calblueprint @innodatcal",
+			"url": "https://t.co/p9uwnmpame",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p9uwnmpame",
+							"expanded_url": "http://ethanl.ee",
+							"display_url": "ethanl.ee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 505,
+			"listed_count": 4,
+			"created_at": "Sun Sep 08 00:42:07 +0000 2013",
+			"favourites_count": 1356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 595,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051565953652154368/e9vlE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051565953652154368/e9vlE372_normal.jpg",
+			"profile_link_color": "E0E0E0",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "embedding @glitch projects into @revealjs slides has got to be one of coolest mashups of the web, ever. these are real interactive, inline demos! https://t.co/KCUO8gFiAg"
+	},
+	{
 		"created_at": "Tue Oct 16 08:37:38 +0000 2018",
 		"id": 1052116343829356500,
 		"id_str": "1052116343829356545",
