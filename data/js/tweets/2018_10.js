@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 31 00:58:58 +0000 2018",
+		"id": 1057436734223458300,
+		"id_str": "1057436734223458304",
+		"full_text": "@elotroalex It’s amazing, see what @jugoretz has done at https://t.co/2cJiQcQjhk to create archival sites for a lot of older project sites using it.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elotroalex",
+					"name": "Alex Gil",
+					"id": 91438333,
+					"id_str": "91438333",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "jugoretz",
+					"name": "Joseph Ugoretz",
+					"id": 3721821,
+					"id_str": "3721821",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2cJiQcQjhk",
+					"expanded_url": "https://macaulay.cuny.edu/seminars/",
+					"display_url": "macaulay.cuny.edu/seminars/",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1057420293692624900,
+		"in_reply_to_status_id_str": "1057420293692624896",
+		"in_reply_to_user_id": 91438333,
+		"in_reply_to_user_id_str": "91438333",
+		"in_reply_to_screen_name": "elotroalex",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 250,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@elotroalex It’s amazing, see what @jugoretz has done at https://t.co/2cJiQcQjhk to create archival sites for a lot of older project sites using it."
+	},
+	{
+		"created_at": "Tue Oct 30 23:50:29 +0000 2018",
+		"id": 1057419498846908400,
+		"id_str": "1057419498846908417",
+		"full_text": "@Dharmah35 Haha, I can totally see that. Hope your dogs are ready for rocking out!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dharmah35",
+					"name": "Gwendolyn Hale",
+					"id": 339388308,
+					"id_str": "339388308",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1057417502488232000,
+		"in_reply_to_status_id_str": "1057417502488231936",
+		"in_reply_to_user_id": 339388308,
+		"in_reply_to_user_id_str": "339388308",
+		"in_reply_to_screen_name": "Dharmah35",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 250,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dharmah35 Haha, I can totally see that. Hope your dogs are ready for rocking out!"
+	},
+	{
+		"created_at": "Mon Oct 29 14:49:19 +0000 2018",
+		"id": 1056920922836426800,
+		"id_str": "1056920922836426752",
+		"full_text": "We are hiring! Reclaim Hosting is known for stellar support and we are looking for someone that can build out a strong support program to take it to the next level. If that’s you or someone you know we’d love to hear from you! https://t.co/Jsp1uDs8r4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jsp1uDs8r4",
+					"expanded_url": "https://reclaimhosting.com/careers/customer-support-manager/",
+					"display_url": "reclaimhosting.com/careers/custom…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1602053274,
+			"id_str": "1602053274",
+			"name": "Reclaim Hosting",
+			"screen_name": "ReclaimHosting",
+			"location": "",
+			"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.",
+			"url": "https://t.co/7YLSpKrSJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YLSpKrSJW",
+							"expanded_url": "https://reclaimhosting.com",
+							"display_url": "reclaimhosting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1405,
+			"friends_count": 272,
+			"listed_count": 50,
+			"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1524002583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are hiring! Reclaim Hosting is known for stellar support and we are looking for someone that can build out a strong support program to take it to the next level. If that’s you or someone you know we’d love to hear from you! https://t.co/Jsp1uDs8r4"
+	},
+	{
 		"created_at": "Mon Oct 29 14:49:19 +0000 2018",
 		"id": 1056920922836426800,
 		"id_str": "1056920922836426752",
