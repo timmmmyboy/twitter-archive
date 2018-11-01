@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 31 14:44:17 +0000 2018",
+		"id": 1057644434026848300,
+		"id_str": "1057644434026848257",
+		"full_text": "@elotroalex @jamescummings We had a good discussion about approaches at https://t.co/d2L7lVmERU and wget -mkEpnp seemed to be a good one-liner. I’d love to make this a plugin in cPanel as well for someone to be able to easily archive a site they host with us.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elotroalex",
+					"name": "Alex Gil",
+					"id": 91438333,
+					"id_str": "91438333",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "jamescummings",
+					"name": "James Cummings",
+					"id": 15318025,
+					"id_str": "15318025",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d2L7lVmERU",
+					"expanded_url": "https://community.reclaimhosting.com/t/archiving-wordpress-sites-as-static-html/225",
+					"display_url": "community.reclaimhosting.com/t/archiving-wo…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1057641997304037400,
+		"in_reply_to_status_id_str": "1057641997304037376",
+		"in_reply_to_user_id": 91438333,
+		"in_reply_to_user_id_str": "91438333",
+		"in_reply_to_screen_name": "elotroalex",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 251,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@elotroalex @jamescummings We had a good discussion about approaches at https://t.co/d2L7lVmERU and wget -mkEpnp seemed to be a good one-liner. I’d love to make this a plugin in cPanel as well for someone to be able to easily archive a site they host with us."
+	},
+	{
+		"created_at": "Wed Oct 31 12:05:26 +0000 2018",
+		"id": 1057604455863074800,
+		"id_str": "1057604455863074821",
+		"full_text": "@jamescummings @elotroalex It is basically a GUI version of wget without having to know all the various flags. Lots of options like choosing user agent, file/folder exclusions, url replacement, etc.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamescummings",
+					"name": "James Cummings",
+					"id": 15318025,
+					"id_str": "15318025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "elotroalex",
+					"name": "Alex Gil",
+					"id": 91438333,
+					"id_str": "91438333",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1057589406817808400,
+		"in_reply_to_status_id_str": "1057589406817808384",
+		"in_reply_to_user_id": 15318025,
+		"in_reply_to_user_id_str": "15318025",
+		"in_reply_to_screen_name": "jamescummings",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151,
+			"friends_count": 251,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jamescummings @elotroalex It is basically a GUI version of wget without having to know all the various flags. Lots of options like choosing user agent, file/folder exclusions, url replacement, etc."
+	},
+	{
 		"created_at": "Wed Oct 31 00:58:58 +0000 2018",
 		"id": 1057436734223458300,
 		"id_str": "1057436734223458304",
