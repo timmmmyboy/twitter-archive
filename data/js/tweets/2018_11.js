@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 18 03:44:18 +0000 2018",
+		"id": 1064001322003951600,
+		"id_str": "1064001322003951617",
+		"full_text": "@noiseprofessor One of these days I’m going to have to make a trip out to see your space! Maybe I can convince @jimgroom to tag along and we can talk shop.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noiseprofessor",
+					"name": "Zack Dowell",
+					"id": 23041881,
+					"id_str": "23041881",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1064000210706165800,
+		"in_reply_to_status_id_str": "1064000210706165765",
+		"in_reply_to_user_id": 23041881,
+		"in_reply_to_user_id_str": "23041881",
+		"in_reply_to_screen_name": "noiseprofessor",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 251,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@noiseprofessor One of these days I’m going to have to make a trip out to see your space! Maybe I can convince @jimgroom to tag along and we can talk shop."
+	},
+	{
+		"created_at": "Sun Nov 18 03:28:41 +0000 2018",
+		"id": 1063997394549948400,
+		"id_str": "1063997394549948417",
+		"full_text": "@noiseprofessor We took your advice and so glad, this thing is awesome! Got a 3-day print running and streaming to http://70.183.3.88:8080/?action=stream. The thing is so reliable right out of the box. Thanks for the recommendation!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noiseprofessor",
+					"name": "Zack Dowell",
+					"id": 23041881,
+					"id_str": "23041881",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1059949356395229200,
+		"in_reply_to_status_id_str": "1059949356395229185",
+		"in_reply_to_user_id": 23041881,
+		"in_reply_to_user_id_str": "23041881",
+		"in_reply_to_screen_name": "noiseprofessor",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 251,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@noiseprofessor We took your advice and so glad, this thing is awesome! Got a 3-day print running and streaming to http://70.183.3.88:8080/?action=stream. The thing is so reliable right out of the box. Thanks for the recommendation!"
+	},
+	{
 		"created_at": "Sat Nov 17 14:46:15 +0000 2018",
 		"id": 1063805521814265900,
 		"id_str": "1063805521814265856",
