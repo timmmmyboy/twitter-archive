@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 23:45:02 +0000 2018",
+		"id": 1075175135873765400,
+		"id_str": "1075175135873765377",
+		"full_text": "@Installatron Is something broken with the management areas of the site? Can no longer login to manage licenses, support, etc.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Installatron",
+					"name": "Installatron",
+					"id": 44760919,
+					"id_str": "44760919",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 44760919,
+		"in_reply_to_user_id_str": "44760919",
+		"in_reply_to_screen_name": "Installatron",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165,
+			"friends_count": 262,
+			"listed_count": 2,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Installatron Is something broken with the management areas of the site? Can no longer login to manage licenses, support, etc."
+	},
+	{
+		"created_at": "Tue Dec 18 02:48:27 +0000 2018",
+		"id": 1074858906126450700,
+		"id_str": "1074858906126450688",
+		"full_text": "This might be one of the best engineering solutions to stolen packages I’ve seen. If a lot of people do it It wouldn’t take long before package stealing was a thing of the past. https://t.co/MzXZ6U16YY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MzXZ6U16YY",
+					"expanded_url": "https://twitter.com/davelevitan/status/1074790392502108160",
+					"display_url": "twitter.com/davelevitan/st…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15661871,
+			"id_str": "15661871",
+			"name": "Adam Savage",
+			"screen_name": "donttrythis",
+			"location": "San Francisco",
+			"description": "Obsessive maker of things. Editor-in-Chief of https://t.co/5f26EwvUeS and host of MythBusters: Junior. Former co-host of MythBusters.",
+			"url": "http://t.co/Nf0dXrGKlC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Nf0dXrGKlC",
+							"expanded_url": "http://www.tested.com",
+							"display_url": "tested.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5f26EwvUeS",
+							"expanded_url": "http://Tested.com",
+							"display_url": "Tested.com",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1341995,
+			"friends_count": 630,
+			"listed_count": 23018,
+			"created_at": "Wed Jul 30 15:55:46 +0000 2008",
+			"favourites_count": 2597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2F3333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458749057985282048/cre48Dcf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458749057985282048/cre48Dcf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15661871/1474404874",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074790392502108200,
+		"quoted_status_id_str": "1074790392502108160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MzXZ6U16YY",
+			"expanded": "https://twitter.com/davelevitan/status/1074790392502108160",
+			"display": "twitter.com/davelevitan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 17 22:16:12 +0000 2018",
+			"id": 1074790392502108200,
+			"id_str": "1074790392502108160",
+			"full_text": "Don’t steal packages off porches, folks. \n\nIncredible revengineering from @MarkRober. \n\nhttps://t.co/1mC31SPOS3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarkRober",
+						"name": "Mark Rober",
+						"id": 490932793,
+						"id_str": "490932793",
+						"indices": [
+							74,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1mC31SPOS3",
+						"expanded_url": "https://www.youtube.com/watch?v=xoxhDk-hwuo&feature=youtu.be",
+						"display_url": "youtube.com/watch?v=xoxhDk…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21495286,
+				"id_str": "21495286",
+				"name": "Dave Levitan",
+				"screen_name": "davelevitan",
+				"location": "",
+				"description": "Journalist, mostly science and politics; bylines @washingtonpost @gizmodo @thedailybeast @theAtlantic and lots more. Author: NOT A SCIENTIST",
+				"url": "http://t.co/zTRseF3K1X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zTRseF3K1X",
+								"expanded_url": "http://www.davelevitan.com",
+								"display_url": "davelevitan.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3588,
+				"friends_count": 577,
+				"listed_count": 195,
+				"created_at": "Sat Feb 21 16:09:47 +0000 2009",
+				"favourites_count": 4572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19402,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793807455268532224/740fAPFH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793807455268532224/740fAPFH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21495286/1530612366",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 506,
+			"favorite_count": 1068,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 398,
+		"favorite_count": 2142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This might be one of the best engineering solutions to stolen packages I’ve seen. If a lot of people do it It wouldn’t take long before package stealing was a thing of the past. https://t.co/MzXZ6U16YY"
+	},
+	{
 		"created_at": "Mon Dec 17 21:55:39 +0000 2018",
 		"id": 1074785219562098700,
 		"id_str": "1074785219562098693",
