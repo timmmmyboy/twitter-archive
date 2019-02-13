@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 00:58:48 +0000 2019",
+		"id": 1095487420882186200,
+		"id_str": "1095487420882186246",
+		"full_text": "Today I did more “art” than “work” and I am so ok with that.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 266,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Today I did more “art” than “work” and I am so ok with that."
+	},
+	{
+		"created_at": "Tue Feb 12 22:35:26 +0000 2019",
+		"id": 1095451337620422700,
+		"id_str": "1095451337620422657",
+		"full_text": "Can you tell I love skeuomorphic design? If I had the option I would still be on iOS 6 https://t.co/JgTUaGROvO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JgTUaGROvO",
+					"expanded_url": "https://twitter.com/brumface/status/1095434320678932483",
+					"display_url": "twitter.com/brumface/statu…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 266,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095434320678932500,
+		"quoted_status_id_str": "1095434320678932483",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JgTUaGROvO",
+			"expanded": "https://twitter.com/brumface/status/1095434320678932483",
+			"display": "twitter.com/brumface/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 12 21:27:48 +0000 2019",
+			"id": 1095434320678932500,
+			"id_str": "1095434320678932483",
+			"full_text": "Be Kind, Reclaim: https://t.co/JV7rsusWNA @ReclaimHosting https://t.co/myz6Q0OqjJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ReclaimHosting",
+						"name": "Reclaim Hosting",
+						"id": 1602053274,
+						"id_str": "1602053274",
+						"indices": [
+							42,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JV7rsusWNA",
+						"expanded_url": "https://labrumfield.com/be-kind-reclaim/",
+						"display_url": "labrumfield.com/be-kind-reclai…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1095434225115754500,
+						"id_str": "1095434225115754496",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DzPDn7bUcAAXySW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzPDn7bUcAAXySW.jpg",
+						"url": "https://t.co/myz6Q0OqjJ",
+						"display_url": "pic.twitter.com/myz6Q0OqjJ",
+						"expanded_url": "https://twitter.com/brumface/status/1095434320678932483/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1649,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 966,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 547,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095434225115754500,
+						"id_str": "1095434225115754496",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DzPDn7bUcAAXySW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzPDn7bUcAAXySW.jpg",
+						"url": "https://t.co/myz6Q0OqjJ",
+						"display_url": "pic.twitter.com/myz6Q0OqjJ",
+						"expanded_url": "https://twitter.com/brumface/status/1095434320678932483/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1649,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 966,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 547,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60716903,
+				"id_str": "60716903",
+				"name": "Lauren Brumfield",
+				"screen_name": "brumface",
+				"location": "Pensacola, FL",
+				"description": "Kickin' it at @ReclaimHosting",
+				"url": "https://t.co/H7lXS2DGUs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7lXS2DGUs",
+								"expanded_url": "http://labrumfield.com",
+								"display_url": "labrumfield.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 491,
+				"friends_count": 363,
+				"listed_count": 13,
+				"created_at": "Mon Jul 27 21:33:40 +0000 2009",
+				"favourites_count": 4125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4899,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C5EBDC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928657549787848704/zpA56LEZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928657549787848704/zpA56LEZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60716903/1542811854",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "332F2B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can you tell I love skeuomorphic design? If I had the option I would still be on iOS 6 https://t.co/JgTUaGROvO"
+	},
+	{
 		"created_at": "Tue Feb 12 00:56:10 +0000 2019",
 		"id": 1095124369783832600,
 		"id_str": "1095124369783832576",
