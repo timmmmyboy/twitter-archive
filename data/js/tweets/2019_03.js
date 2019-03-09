@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 02:21:24 +0000 2019",
+		"id": 1103843126563819500,
+		"id_str": "1103843126563819520",
+		"full_text": "This gif and getting our Joust cab working properly were the two highlights of my day. https://t.co/kdQDdrcbPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103843098734538800,
+					"id_str": "1103843098734538752",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1GjcyvWsAAiba5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1GjcyvWsAAiba5.jpg",
+					"url": "https://t.co/kdQDdrcbPB",
+					"display_url": "pic.twitter.com/kdQDdrcbPB",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1103843126563819520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103843098734538800,
+					"id_str": "1103843098734538752",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1GjcyvWsAAiba5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1GjcyvWsAAiba5.jpg",
+					"url": "https://t.co/kdQDdrcbPB",
+					"display_url": "pic.twitter.com/kdQDdrcbPB",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1103843126563819520/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							102
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D1GjcyvWsAAiba5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 267,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This gif and getting our Joust cab working properly were the two highlights of my day. https://t.co/kdQDdrcbPB"
+	},
+	{
 		"created_at": "Thu Mar 07 16:08:11 +0000 2019",
 		"id": 1103688804521660400,
 		"id_str": "1103688804521660416",
