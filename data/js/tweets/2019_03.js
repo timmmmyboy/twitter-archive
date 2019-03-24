@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 21:51:23 +0000 2019",
+		"id": 1109573380733308900,
+		"id_str": "1109573380733308929",
+		"full_text": "If https://t.co/lMXXtTxwEp is live by tomorrow night I may bless it with some exciting new stuff. #roadtripweekend",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "roadtripweekend",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lMXXtTxwEp",
+					"expanded_url": "http://reclaimarcade.com/",
+					"display_url": "reclaimarcade.com",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 268,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If https://t.co/lMXXtTxwEp is live by tomorrow night I may bless it with some exciting new stuff. #roadtripweekend"
+	},
+	{
+		"created_at": "Sat Mar 23 17:20:27 +0000 2019",
+		"id": 1109505198861496300,
+		"id_str": "1109505198861496321",
+		"full_text": "She got mighty close to you @brumface but you continue to reign supreme. https://t.co/Q4UEshtCR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brumface",
+					"name": "Lauren Brumfield",
+					"id": 60716903,
+					"id_str": "60716903",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q4UEshtCR0",
+					"expanded_url": "https://twitter.com/reeveskd/status/1109480821973532673",
+					"display_url": "twitter.com/reeveskd/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 268,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109480821973532700,
+		"quoted_status_id_str": "1109480821973532673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q4UEshtCR0",
+			"expanded": "https://twitter.com/reeveskd/status/1109480821973532673",
+			"display": "twitter.com/reeveskd/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 23 15:43:35 +0000 2019",
+			"id": 1109480821973532700,
+			"id_str": "1109480821973532673",
+			"full_text": "H-bomb! @H270 #4 high score in Centipede at @coworkfxbg before the @vste meeting! https://t.co/cuhGBzQnsV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "H270",
+						"name": "ℍ𝕖𝕒𝕥𝕙𝕖𝕣 ℍ𝕦𝕣𝕝𝕖𝕪",
+						"id": 7664582,
+						"id_str": "7664582",
+						"indices": [
+							8,
+							13
+						]
+					},
+					{
+						"screen_name": "coworkfxbg",
+						"name": "CoWork FXBG",
+						"id": 3392851330,
+						"id_str": "3392851330",
+						"indices": [
+							44,
+							55
+						]
+					},
+					{
+						"screen_name": "vste",
+						"name": "VSTE World Hqtrs",
+						"id": 8544882,
+						"id_str": "8544882",
+						"indices": [
+							67,
+							72
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1109480803103330300,
+						"id_str": "1109480803103330306",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/D2Wq6YIW0AIU2dr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2Wq6YIW0AIU2dr.jpg",
+						"url": "https://t.co/cuhGBzQnsV",
+						"display_url": "pic.twitter.com/cuhGBzQnsV",
+						"expanded_url": "https://twitter.com/reeveskd/status/1109480821973532673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1109480803103330300,
+						"id_str": "1109480803103330306",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/D2Wq6YIW0AIU2dr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2Wq6YIW0AIU2dr.jpg",
+						"url": "https://t.co/cuhGBzQnsV",
+						"display_url": "pic.twitter.com/cuhGBzQnsV",
+						"expanded_url": "https://twitter.com/reeveskd/status/1109480821973532673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51639960,
+				"id_str": "51639960",
+				"name": "Keith Reeves",
+				"screen_name": "reeveskd",
+				"location": "he/him/they/them",
+				"description": "VSTE Chair, CETL, Educator, author, keynote speaker, pedagogy revolutionary, teacher & #edtech leader. Opinions exclusively my own, not of/by any school.",
+				"url": "https://t.co/mZ24v1xONj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mZ24v1xONj",
+								"expanded_url": "http://www.kdreeves.com",
+								"display_url": "kdreeves.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1430,
+				"friends_count": 1085,
+				"listed_count": 124,
+				"created_at": "Sun Jun 28 03:33:52 +0000 2009",
+				"favourites_count": 9214,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7426,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938068838222127108/4aeTkDzn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938068838222127108/4aeTkDzn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51639960/1438798807",
+				"profile_link_color": "696969",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "She got mighty close to you @brumface but you continue to reign supreme. https://t.co/Q4UEshtCR0"
+	},
+	{
+		"created_at": "Sat Mar 23 17:17:12 +0000 2019",
+		"id": 1109504379080663000,
+		"id_str": "1109504379080663040",
+		"full_text": "@reeveskd @H270 @coworkfxbg @vste Heyooo!",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reeveskd",
+					"name": "Keith Reeves",
+					"id": 51639960,
+					"id_str": "51639960",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "H270",
+					"name": "ℍ𝕖𝕒𝕥𝕙𝕖𝕣 ℍ𝕦𝕣𝕝𝕖𝕪",
+					"id": 7664582,
+					"id_str": "7664582",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"screen_name": "coworkfxbg",
+					"name": "CoWork FXBG",
+					"id": 3392851330,
+					"id_str": "3392851330",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "vste",
+					"name": "VSTE World Hqtrs",
+					"id": 8544882,
+					"id_str": "8544882",
+					"indices": [
+						28,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1109480821973532700,
+		"in_reply_to_status_id_str": "1109480821973532673",
+		"in_reply_to_user_id": 51639960,
+		"in_reply_to_user_id_str": "51639960",
+		"in_reply_to_screen_name": "reeveskd",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 268,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@reeveskd @H270 @coworkfxbg @vste Heyooo!"
+	},
+	{
 		"created_at": "Fri Mar 22 14:12:20 +0000 2019",
 		"id": 1109095468875812900,
 		"id_str": "1109095468875812866",
