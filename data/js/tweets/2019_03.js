@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 30 17:50:42 +0000 2019",
+		"id": 1112049526762815500,
+		"id_str": "1112049526762815490",
+		"full_text": "@btopro Yeah the only thing I have to work out is the installer is doing a final fetch of the site to grab a thumbnail which is triggering the install so you never see the login. I may just try to recreate the actions of install.php manually in the installer.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "btopro",
+					"name": "Bryan ✻llendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1112024677952749600,
+		"in_reply_to_status_id_str": "1112024677952749568",
+		"in_reply_to_user_id": 16847370,
+		"in_reply_to_user_id_str": "16847370",
+		"in_reply_to_screen_name": "btopro",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 269,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@btopro Yeah the only thing I have to work out is the installer is doing a final fetch of the site to grab a thumbnail which is triggering the install so you never see the login. I may just try to recreate the actions of install.php manually in the installer."
+	},
+	{
+		"created_at": "Sat Mar 30 16:07:40 +0000 2019",
+		"id": 1112023597797785600,
+		"id_str": "1112023597797785600",
+		"full_text": "@btopro Oh hey, that MAMP setup script is super useful :) This will be done and out this week I believe. https://t.co/9oX2OTAi0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "btopro",
+					"name": "Bryan ✻llendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112023573563166700,
+					"id_str": "1112023573563166726",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D26zjGQX0AY7e5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D26zjGQX0AY7e5s.jpg",
+					"url": "https://t.co/9oX2OTAi0j",
+					"display_url": "pic.twitter.com/9oX2OTAi0j",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1112023597797785600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1954,
+							"h": 1204,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 739,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112023573563166700,
+					"id_str": "1112023573563166726",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D26zjGQX0AY7e5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D26zjGQX0AY7e5s.jpg",
+					"url": "https://t.co/9oX2OTAi0j",
+					"display_url": "pic.twitter.com/9oX2OTAi0j",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1112023597797785600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1954,
+							"h": 1204,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 739,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16847370,
+		"in_reply_to_user_id_str": "16847370",
+		"in_reply_to_screen_name": "btopro",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 269,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@btopro Oh hey, that MAMP setup script is super useful :) This will be done and out this week I believe. https://t.co/9oX2OTAi0j"
+	},
+	{
+		"created_at": "Sat Mar 30 11:02:14 +0000 2019",
+		"id": 1111784005119197200,
+		"id_str": "1111946731544084481",
+		"full_text": "Oh snap! My @ReclaimHosting #tshirt arrived! 👊👊🔥🔥 https://t.co/39UDHTuM4S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tshirt",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111783997703630800,
+					"id_str": "1111783997703630854",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D23Zp8oWsAYir2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D23Zp8oWsAYir2V.jpg",
+					"url": "https://t.co/39UDHTuM4S",
+					"display_url": "pic.twitter.com/39UDHTuM4S",
+					"expanded_url": "https://twitter.com/ryanseslow/status/1111784005119197186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111783997703630800,
+					"id_str": "1111783997703630854",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D23Zp8oWsAYir2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D23Zp8oWsAYir2V.jpg",
+					"url": "https://t.co/39UDHTuM4S",
+					"display_url": "pic.twitter.com/39UDHTuM4S",
+					"expanded_url": "https://twitter.com/ryanseslow/status/1111784005119197186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15991874,
+			"id_str": "15991874",
+			"name": "ryanseslow",
+			"screen_name": "ryanseslow",
+			"location": "New York, NY",
+			"description": "I am.",
+			"url": "https://t.co/Y1V4zoBTzv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y1V4zoBTzv",
+							"expanded_url": "http://www.ryanseslow.com",
+							"display_url": "ryanseslow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4262,
+			"friends_count": 3571,
+			"listed_count": 513,
+			"created_at": "Tue Aug 26 03:31:44 +0000 2008",
+			"favourites_count": 14609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27312,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897623892470243329/2GFheqhb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897623892470243329/2GFheqhb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15991874/1536446655",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh snap! My @ReclaimHosting #tshirt arrived! 👊👊🔥🔥 https://t.co/39UDHTuM4S"
+	},
+	{
+		"created_at": "Sat Mar 30 10:59:18 +0000 2019",
+		"id": 1111945992025329700,
+		"id_str": "1111945992025329664",
+		"full_text": "@saracup It definitely toes an odd line between intimate and creepy.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saracup",
+					"name": "Cathy Finn-Derecki",
+					"id": 6109062,
+					"id_str": "6109062",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1111783673240547300,
+		"in_reply_to_status_id_str": "1111783673240547328",
+		"in_reply_to_user_id": 6109062,
+		"in_reply_to_user_id_str": "6109062",
+		"in_reply_to_screen_name": "saracup",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 269,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@saracup It definitely toes an odd line between intimate and creepy."
+	},
+	{
 		"created_at": "Fri Mar 29 15:00:53 +0000 2019",
 		"id": 1111644401946775600,
 		"id_str": "1111644401946775552",
