@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 00:30:42 +0000 2019",
+		"id": 1119397945797951500,
+		"id_str": "1119397945797951488",
+		"full_text": "The preshow tonight is Night of the Living Dead from 1968 directed by George Romero. Starting in about 5 minutes @reclaimvideo and you can join in live at https://t.co/6yyi81weU1 as well as chat in Discord",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reclaimvideo",
+					"name": "Reclaim Video",
+					"id": 885452192047648800,
+					"id_str": "885452192047648768",
+					"indices": [
+						113,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6yyi81weU1",
+					"expanded_url": "http://reclaimvideo.com/live",
+					"display_url": "reclaimvideo.com/live",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 268,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The preshow tonight is Night of the Living Dead from 1968 directed by George Romero. Starting in about 5 minutes @reclaimvideo and you can join in live at https://t.co/6yyi81weU1 as well as chat in Discord"
+	},
+	{
+		"created_at": "Sat Apr 20 00:04:21 +0000 2019",
+		"id": 1119391317115772900,
+		"id_str": "1119391317115772928",
+		"full_text": "@ammienoot @jimgroom Link ended up getting changed but archive of that convo here https://t.co/aklwMN90Gk",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ammienoot",
+					"name": "Anne-Marie Scott",
+					"id": 22673907,
+					"id_str": "22673907",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aklwMN90Gk",
+					"expanded_url": "https://twitter.com/ReclaimHosting/status/1119378648757350400",
+					"display_url": "twitter.com/ReclaimHosting…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1119389893568995300,
+		"in_reply_to_status_id_str": "1119389893568995329",
+		"in_reply_to_user_id": 22673907,
+		"in_reply_to_user_id_str": "22673907",
+		"in_reply_to_screen_name": "ammienoot",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 268,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119378648757350400,
+		"quoted_status_id_str": "1119378648757350400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aklwMN90Gk",
+			"expanded": "https://twitter.com/ReclaimHosting/status/1119378648757350400",
+			"display": "twitter.com/ReclaimHosting…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 23:14:01 +0000 2019",
+			"id": 1119378648757350400,
+			"id_str": "1119378648757350400",
+			"full_text": "Reclaim Today Episode 14 is out! OER 19 Therapy: Reclaim Hosting’s thoughts and reflections after attending the OER19 conference held in Galway, Ireland on April 10-11 https://t.co/maO35flnnM #OER19 #reclaimtoday",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER19",
+						"indices": [
+							192,
+							198
+						]
+					},
+					{
+						"text": "reclaimtoday",
+						"indices": [
+							199,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/maO35flnnM",
+						"expanded_url": "https://today.reclaimhosting.com/e/014-oer-19-therapy/",
+						"display_url": "today.reclaimhosting.com/e/014-oer-19-t…",
+						"indices": [
+							168,
+							191
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1602053274,
+				"id_str": "1602053274",
+				"name": "Reclaim Hosting",
+				"screen_name": "ReclaimHosting",
+				"location": "",
+				"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.\n@DomainsConf",
+				"url": "https://t.co/7YLSpKrSJW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7YLSpKrSJW",
+								"expanded_url": "https://reclaimhosting.com",
+								"display_url": "reclaimhosting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1478,
+				"friends_count": 269,
+				"listed_count": 52,
+				"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+				"favourites_count": 123,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2348,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1524002583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ammienoot @jimgroom Link ended up getting changed but archive of that convo here https://t.co/aklwMN90Gk"
+	},
+	{
+		"created_at": "Fri Apr 19 23:49:05 +0000 2019",
+		"id": 1119387473124184000,
+		"id_str": "1119387473124184067",
+		"full_text": "Gonna have some fun this evening https://t.co/ikoWdPxTCk First time playing with Discord",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ikoWdPxTCk",
+					"expanded_url": "http://reclaimvideo.com/live/",
+					"display_url": "reclaimvideo.com/live/",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 268,
+			"listed_count": 3,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gonna have some fun this evening https://t.co/ikoWdPxTCk First time playing with Discord"
+	},
+	{
+		"created_at": "Fri Apr 19 23:21:39 +0000 2019",
+		"id": 1119380517927964700,
+		"id_str": "1119380569949986817",
+		"full_text": "Join our Discord server for live realtime audio chat during movie nights https://t.co/xouoHgs0Xb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xouoHgs0Xb",
+					"expanded_url": "https://discord.gg/QQCyXM",
+					"display_url": "discord.gg/QQCyXM",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885452192047648800,
+			"id_str": "885452192047648768",
+			"name": "Reclaim Video",
+			"screen_name": "reclaimvideo",
+			"location": "Fredericksburg, VA",
+			"description": "Reclaim Video is a cutting-edge video rental store in Fredericksburg, Virginia housing a wide selection of VHS, Laserdisc, Betamax and more.",
+			"url": "https://t.co/2BKCC77oHs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2BKCC77oHs",
+							"expanded_url": "http://reclaimvideo.com",
+							"display_url": "reclaimvideo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 48,
+			"listed_count": 2,
+			"created_at": "Thu Jul 13 10:53:48 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960656952094113792/f52C3HYO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960656952094113792/f52C3HYO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885452192047648768/1517873418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join our Discord server for live realtime audio chat during movie nights https://t.co/xouoHgs0Xb"
+	},
+	{
 		"created_at": "Thu Apr 18 12:20:38 +0000 2019",
 		"id": 1118851831613071400,
 		"id_str": "1118851831613071360",
