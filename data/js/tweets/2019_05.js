@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 18:48:10 +0000 2019",
+		"id": 1127726889026707500,
+		"id_str": "1128371443060887555",
+		"full_text": "Please spread this story. Anyone with information is asked to call Major Crimes Detective J. Baynes at 804-646-3617 or Crime Stoppers at 804-780-1000. https://t.co/a0nL5JeuqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0nL5JeuqK",
+					"expanded_url": "https://twitter.com/RTDNEWS/status/1127338137066381312",
+					"display_url": "twitter.com/RTDNEWS/status…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10076902,
+			"id_str": "10076902",
+			"name": "Tom Woodward",
+			"screen_name": "twoodwar",
+			"location": "Richmond VA",
+			"description": "Next week it's the fries.",
+			"url": "http://t.co/95ZKS5F7nO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/95ZKS5F7nO",
+							"expanded_url": "http://bionicteaching.com",
+							"display_url": "bionicteaching.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2311,
+			"friends_count": 3006,
+			"listed_count": 184,
+			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
+			"favourites_count": 3240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3607940841/6d6fca6643e447bc5a76bc9c1cbab4b2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3607940841/6d6fca6643e447bc5a76bc9c1cbab4b2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10076902/1404582652",
+			"profile_link_color": "060649",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "353535",
+			"profile_text_color": "030202",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1127338137066381300,
+		"quoted_status_id_str": "1127338137066381312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a0nL5JeuqK",
+			"expanded": "https://twitter.com/RTDNEWS/status/1127338137066381312",
+			"display": "twitter.com/RTDNEWS/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 11 22:22:11 +0000 2019",
+			"id": 1127338137066381300,
+			"id_str": "1127338137066381312",
+			"full_text": "A woman found dead in a Stratford Hills home Thursday has been identified by Richmond police as Suzanne A. Fairman, a 53-year-old administrator at Virginia Commonwealth University.\n\nhttps://t.co/V7VbNbGEr9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V7VbNbGEr9",
+						"expanded_url": "https://www.richmond.com/news/local/crime/stratford-hills-victim-identified-as-vcu-administrator/article_93adcc61-67d6-5c74-927b-cff5012b345a.html",
+						"display_url": "richmond.com/news/local/cri…",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23764675,
+				"id_str": "23764675",
+				"name": "Times-Dispatch",
+				"screen_name": "RTDNEWS",
+				"location": "Richmond, VA",
+				"description": "News, opinion, sports and more from the Richmond Times-Dispatch. Follow our journalists on Twitter: https://t.co/kJvjcVY83i",
+				"url": "http://t.co/9iKCAt76qA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9iKCAt76qA",
+								"expanded_url": "http://Richmond.com",
+								"display_url": "Richmond.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kJvjcVY83i",
+								"expanded_url": "https://twitter.com/RTDNEWS/lists/rtd-staffers/members",
+								"display_url": "twitter.com/RTDNEWS/lists/…",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 111692,
+				"friends_count": 660,
+				"listed_count": 1482,
+				"created_at": "Wed Mar 11 13:49:05 +0000 2009",
+				"favourites_count": 691,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91577,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/609446079214452736/ggUwXDMz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/609446079214452736/ggUwXDMz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23764675/1498254710",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please spread this story. Anyone with information is asked to call Major Crimes Detective J. Baynes at 804-646-3617 or Crime Stoppers at 804-780-1000. https://t.co/a0nL5JeuqK"
+	},
+	{
 		"created_at": "Thu May 09 00:51:29 +0000 2019",
 		"id": 1126288545650495500,
 		"id_str": "1126288545650495492",
