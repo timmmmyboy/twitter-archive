@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 22:27:18 +0000 2019",
+		"id": 1133841300212445200,
+		"id_str": "1133862405426089986",
+		"full_text": "Wesleyan’s doing interesting things at the minute, and I know @RachelSchnepper has big plans for 2019-20. If you are looking for an instructional technology-type job in CT, apply! https://t.co/G2y0WtCyF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RachelSchnepper",
+					"name": "Rachel Schnepper",
+					"id": 1183785024,
+					"id_str": "1183785024",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G2y0WtCyF8",
+					"expanded_url": "https://twitter.com/RachelSchnepper/status/1133838150281961474",
+					"display_url": "twitter.com/RachelSchneppe…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1133838150281961500,
+		"in_reply_to_status_id_str": "1133838150281961474",
+		"in_reply_to_user_id": 1183785024,
+		"in_reply_to_user_id_str": "1183785024",
+		"in_reply_to_screen_name": "RachelSchnepper",
+		"user": {
+			"id": 35993,
+			"id_str": "35993",
+			"name": "jbj",
+			"screen_name": "jbj",
+			"location": "New Britain, CT",
+			"description": "Research, Instruction, Technology at @TrinityLibrary. Co-founder of @ProfHacker. ORCID: 0000-0001-7776-0292\nDriver to soccer.",
+			"url": "https://t.co/Htkyhk8uCT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Htkyhk8uCT",
+							"expanded_url": "http://about.me/jbj",
+							"display_url": "about.me/jbj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5151,
+			"friends_count": 5250,
+			"listed_count": 388,
+			"created_at": "Sat Dec 02 02:19:55 +0000 2006",
+			"favourites_count": 17040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093926641984856065/ljkviEK0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093926641984856065/ljkviEK0_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133838150281961500,
+		"quoted_status_id_str": "1133838150281961474",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G2y0WtCyF8",
+			"expanded": "https://twitter.com/RachelSchnepper/status/1133838150281961474",
+			"display": "twitter.com/RachelSchneppe…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 20:50:55 +0000 2019",
+			"id": 1133838150281961500,
+			"id_str": "1133838150281961474",
+			"full_text": "For the late in the day people: We're hiring an Academic Technologist! Check us out! Share! https://t.co/uoki5QO1mK #edtech #digiped",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							116,
+							123
+						]
+					},
+					{
+						"text": "digiped",
+						"indices": [
+							124,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uoki5QO1mK",
+						"expanded_url": "https://careers.wesleyan.edu/postings/6874",
+						"display_url": "careers.wesleyan.edu/postings/6874",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1183785024,
+				"id_str": "1183785024",
+				"name": "Rachel Schnepper",
+				"screen_name": "RachelSchnepper",
+				"location": "Connecticut, USA",
+				"description": "History PhD. Vassar grad. Digital humanist. Feminist. Director of academic tech. Too old and too angry for your bullshit.",
+				"url": "https://t.co/oEJA5lOXDt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oEJA5lOXDt",
+								"expanded_url": "http://www.rachelschnepper.com",
+								"display_url": "rachelschnepper.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 732,
+				"friends_count": 972,
+				"listed_count": 46,
+				"created_at": "Fri Feb 15 21:14:15 +0000 2013",
+				"favourites_count": 1783,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6469,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859888153569701890/xVp4vjHI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859888153569701890/xVp4vjHI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1183785024/1496534047",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wesleyan’s doing interesting things at the minute, and I know @RachelSchnepper has big plans for 2019-20. If you are looking for an instructional technology-type job in CT, apply! https://t.co/G2y0WtCyF8"
+	},
+	{
+		"created_at": "Wed May 29 01:41:58 +0000 2019",
+		"id": 1133549008578908200,
+		"id_str": "1133549008578908160",
+		"full_text": "@btopro Ah yeah. Those are a bit pricier, but fun.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "btopro",
+					"name": "Bryan ✻llendyke",
+					"id": 16847370,
+					"id_str": "16847370",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1133548441601282000,
+		"in_reply_to_status_id_str": "1133548441601282053",
+		"in_reply_to_user_id": 16847370,
+		"in_reply_to_user_id_str": "16847370",
+		"in_reply_to_screen_name": "btopro",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 268,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@btopro Ah yeah. Those are a bit pricier, but fun."
+	},
+	{
 		"created_at": "Sun May 26 13:38:28 +0000 2019",
 		"id": 1132642157167296500,
 		"id_str": "1132642157167296512",
