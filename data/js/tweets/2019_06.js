@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 18:17:23 +0000 2019",
+		"id": 1137061002099527700,
+		"id_str": "1137061002099527680",
+		"full_text": "@JRDingwall 1, or honestly in some cases didn’t get caught by the script because only looking at Installatron installs and some of our institutional WPMS setups don’t even use Installatron.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1137060715058159600,
+		"in_reply_to_status_id_str": "1137060715058159616",
+		"in_reply_to_user_id": 141806761,
+		"in_reply_to_user_id_str": "141806761",
+		"in_reply_to_screen_name": "JRDingwall",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 269,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JRDingwall 1, or honestly in some cases didn’t get caught by the script because only looking at Installatron installs and some of our institutional WPMS setups don’t even use Installatron."
+	},
+	{
+		"created_at": "Fri Jun 07 16:54:23 +0000 2019",
+		"id": 1137040117661651000,
+		"id_str": "1137040117661650945",
+		"full_text": "@FredSchools Very cool!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FredSchools",
+					"name": "Fredericksburg Sch",
+					"id": 62531606,
+					"id_str": "62531606",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1137033690708676600,
+		"in_reply_to_status_id_str": "1137033690708676610",
+		"in_reply_to_user_id": 62531606,
+		"in_reply_to_user_id_str": "62531606",
+		"in_reply_to_screen_name": "FredSchools",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 269,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FredSchools Very cool!"
+	},
+	{
+		"created_at": "Fri Jun 07 16:32:24 +0000 2019",
+		"id": 1137034582124048400,
+		"id_str": "1137034582124048389",
+		"full_text": "So I wrote a script to find # of installs across all servers and couldn’t resist sharing. Reclaim Hosting hosts 48,925 WordPress installs. 😲",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 269,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "So I wrote a script to find # of installs across all servers and couldn’t resist sharing. Reclaim Hosting hosts 48,925 WordPress installs. 😲"
+	},
+	{
+		"created_at": "Fri Jun 07 11:56:24 +0000 2019",
+		"id": 1136965127465517000,
+		"id_str": "1136965127465517056",
+		"full_text": "@Pgogy @jimgroom Lol, I have full confidence you’d call me on any BS so wasn’t too worried about it being a subtweet. The eye roll gifs may be an automated response we roll out for all customers now that you mention it :D",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pgogy",
+					"name": "Pgogy WebStuff",
+					"id": 291323178,
+					"id_str": "291323178",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1136964196883750900,
+		"in_reply_to_status_id_str": "1136964196883750912",
+		"in_reply_to_user_id": 291323178,
+		"in_reply_to_user_id_str": "291323178",
+		"in_reply_to_screen_name": "Pgogy",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 269,
+			"listed_count": 4,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Pgogy @jimgroom Lol, I have full confidence you’d call me on any BS so wasn’t too worried about it being a subtweet. The eye roll gifs may be an automated response we roll out for all customers now that you mention it :D"
+	},
+	{
 		"created_at": "Thu Jun 06 20:38:50 +0000 2019",
 		"id": 1136734212516700200,
 		"id_str": "1136734212516700160",
