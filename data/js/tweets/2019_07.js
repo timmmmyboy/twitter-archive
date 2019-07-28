@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 21:03:32 +0000 2019",
+		"id": 1155206541781405700,
+		"id_str": "1155222209511809028",
+		"full_text": "This is really cool — the @mozillareality browser is on the Oculus Quest, and the intro video has a few nods to @Glitch being a great way to create content for VR using the open web: https://t.co/1j8Q6ZZmFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mozillareality",
+					"name": "Mozilla MR",
+					"id": 3060359959,
+					"id_str": "3060359959",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "glitch",
+					"name": "🎏Glitch",
+					"id": 795717775989833700,
+					"id_str": "795717775989833729",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1j8Q6ZZmFm",
+					"expanded_url": "https://www.youtube.com/watch?v=pIKq2FU0n3M",
+					"display_url": "youtube.com/watch?v=pIKq2F…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36823,
+			"id_str": "36823",
+			"name": "Anil Dash 🥭",
+			"screen_name": "anildash",
+			"location": "NYC",
+			"description": "CEO of 🎏@Glitch, where everyone creates the best stuff on the web together. Host of @podcastfunction. 💜 ethical tech, mangoes, funk, transit & justice. he/him",
+			"url": "https://t.co/IYfhqu0kNE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IYfhqu0kNE",
+							"expanded_url": "http://anildash.com/about/",
+							"display_url": "anildash.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594681,
+			"friends_count": 997,
+			"listed_count": 9109,
+			"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+			"favourites_count": 656882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 197667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+			"profile_link_color": "800080",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is really cool — the @mozillareality browser is on the Oculus Quest, and the intro video has a few nods to @Glitch being a great way to create content for VR using the open web: https://t.co/1j8Q6ZZmFm"
+	},
+	{
 		"created_at": "Sat Jul 27 01:13:39 +0000 2019",
 		"id": 1154922766916825000,
 		"id_str": "1154922766916825088",
