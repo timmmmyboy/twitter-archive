@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 19 14:25:01 +0000 2019",
+		"id": 1163456839587160000,
+		"id_str": "1163456839587160065",
+		"full_text": "Monday https://t.co/dmzFXiryi1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1163456812483588000,
+					"id_str": "1163456812483588099",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ECVtzoOXsAMnqyG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ECVtzoOXsAMnqyG.jpg",
+					"url": "https://t.co/dmzFXiryi1",
+					"display_url": "pic.twitter.com/dmzFXiryi1",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1163456839587160065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1163456812483588000,
+					"id_str": "1163456812483588099",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ECVtzoOXsAMnqyG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ECVtzoOXsAMnqyG.jpg",
+					"url": "https://t.co/dmzFXiryi1",
+					"display_url": "pic.twitter.com/dmzFXiryi1",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1163456839587160065/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ECVtzoOXsAMnqyG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 280,
+			"listed_count": 7,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Monday https://t.co/dmzFXiryi1"
+	},
+	{
 		"created_at": "Thu Aug 15 23:33:21 +0000 2019",
 		"id": 1162145280533381000,
 		"id_str": "1162145280533381120",
