@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 17:01:30 +0000 2019",
+		"id": 1173981861107982300,
+		"id_str": "1174005467305127936",
+		"full_text": "Pumped to put out this whos who of hax camp. @timmmmyboy, cofounder of @ReclaimHosting and sponsor of &lt; hax-camp &gt; will be joining us! Thank Tim and be sure to check out the growing list of who's going on our https://t.co/RMf6HlWv2i page!\n\n#webcomponents https://t.co/eMaj122o31",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "webcomponents",
+					"indices": [
+						246,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						71,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RMf6HlWv2i",
+					"expanded_url": "https://hax.camp/whos-coming",
+					"display_url": "hax.camp/whos-coming",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173981857815433200,
+					"id_str": "1173981857815433216",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EErSR5fXkAAmikf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EErSR5fXkAAmikf.png",
+					"url": "https://t.co/eMaj122o31",
+					"display_url": "pic.twitter.com/eMaj122o31",
+					"expanded_url": "https://twitter.com/haxcamp/status/1173981861107982341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 678,
+							"h": 169,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 169,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 169,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173981857815433200,
+					"id_str": "1173981857815433216",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EErSR5fXkAAmikf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EErSR5fXkAAmikf.png",
+					"url": "https://t.co/eMaj122o31",
+					"display_url": "pic.twitter.com/eMaj122o31",
+					"expanded_url": "https://twitter.com/haxcamp/status/1173981861107982341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 678,
+							"h": 169,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 169,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 169,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 850444258339422200,
+			"id_str": "850444258339422209",
+			"name": "hax-camp",
+			"screen_name": "haxcamp",
+			"location": "Duke University Library",
+			"description": "Unconference dedicated to W3C Web Component specification and all things #HAXTheWeb. Join us to learn more about building & sharing #webcomponents together!",
+			"url": "https://t.co/9O2tt7FLbt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9O2tt7FLbt",
+							"expanded_url": "https://hax.camp",
+							"display_url": "hax.camp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110,
+			"friends_count": 52,
+			"listed_count": 3,
+			"created_at": "Fri Apr 07 20:24:46 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163492024605204480/u0JKt4QD_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163492024605204480/u0JKt4QD_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/850444258339422209/1566232658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pumped to put out this whos who of hax camp. @timmmmyboy, cofounder of @ReclaimHosting and sponsor of &lt; hax-camp &gt; will be joining us! Thank Tim and be sure to check out the growing list of who's going on our https://t.co/RMf6HlWv2i page!\n\n#webcomponents https://t.co/eMaj122o31"
+	},
+	{
 		"created_at": "Sun Sep 15 22:38:26 +0000 2019",
 		"id": 1173365486647746600,
 		"id_str": "1173365486647746565",
