@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 18:52:58 +0000 2019",
+		"id": 1178019788301492200,
+		"id_str": "1178019788301492232",
+		"full_text": "5 years on these conversations continue to remain evergreen https://t.co/X3elq4PF2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X3elq4PF2K",
+					"expanded_url": "https://twitter.com/realdlnorman/status/1178006229416845312",
+					"display_url": "twitter.com/realdlnorman/s…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 282,
+			"listed_count": 8,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178006229416845300,
+		"quoted_status_id_str": "1178006229416845312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X3elq4PF2K",
+			"expanded": "https://twitter.com/realdlnorman/status/1178006229416845312",
+			"display": "twitter.com/realdlnorman/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 17:59:06 +0000 2019",
+			"id": 1178006229416845300,
+			"id_str": "1178006229416845312",
+			"full_text": "Reclaiming Educational Technology part 2 - Fostering a culture of innovation https://t.co/lgNGVrtZMi https://t.co/y5WlWiuKtV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lgNGVrtZMi",
+						"expanded_url": "https://darcynorman.net/2019/09/28/reclaiming-educational-technology-fostering-a-culture-of-innovation/",
+						"display_url": "darcynorman.net/2019/09/28/rec…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1178006227416211500,
+						"id_str": "1178006227416211456",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/EFkebChXYAA0Dac.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFkebChXYAA0Dac.jpg",
+						"url": "https://t.co/y5WlWiuKtV",
+						"display_url": "pic.twitter.com/y5WlWiuKtV",
+						"expanded_url": "https://twitter.com/realdlnorman/status/1178006229416845312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178006227416211500,
+						"id_str": "1178006227416211456",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/EFkebChXYAA0Dac.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFkebChXYAA0Dac.jpg",
+						"url": "https://t.co/y5WlWiuKtV",
+						"display_url": "pic.twitter.com/y5WlWiuKtV",
+						"expanded_url": "https://twitter.com/realdlnorman/status/1178006229416845312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817493053527113700,
+				"id_str": "817493053527113729",
+				"name": "D'Arcy Norman",
+				"screen_name": "realdlnorman",
+				"location": "Calgary, Alberta",
+				"description": "futurist. thought leader. credentializing distributed blockchain synergies across the enterprise. vapid platitude generator. My TED Talk has nearly 3 views.",
+				"url": "https://t.co/YfF3SjsidZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YfF3SjsidZ",
+								"expanded_url": "https://darcynorman.net",
+								"display_url": "darcynorman.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 417,
+				"friends_count": 303,
+				"listed_count": 14,
+				"created_at": "Fri Jan 06 22:08:27 +0000 2017",
+				"favourites_count": 3850,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 433,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1166162738151751681/FtTWouiw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166162738151751681/FtTWouiw_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817493053527113729/1563929703",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 years on these conversations continue to remain evergreen https://t.co/X3elq4PF2K"
+	},
+	{
 		"created_at": "Thu Sep 26 20:26:16 +0000 2019",
 		"id": 1177318492355383300,
 		"id_str": "1177318492355383299",
