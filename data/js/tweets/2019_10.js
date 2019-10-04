@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 22:30:31 +0000 2019",
+		"id": 1179886476185735200,
+		"id_str": "1179886476185735170",
+		"full_text": "@timstahmer @witchyrichy Luckily these days most everything I have is cloud-based in some fashion. It's more all the nitty gritty settings, reloading apps, things like that that are time consuming.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timstahmer",
+					"name": "Tim Stahmer",
+					"id": 7110832,
+					"id_str": "7110832",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "witchyrichy",
+					"name": "Karen Richardson",
+					"id": 1504591,
+					"id_str": "1504591",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1179776842213015600,
+		"in_reply_to_status_id_str": "1179776842213015560",
+		"in_reply_to_user_id": 7110832,
+		"in_reply_to_user_id_str": "7110832",
+		"in_reply_to_screen_name": "timstahmer",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 283,
+			"listed_count": 8,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timstahmer @witchyrichy Luckily these days most everything I have is cloud-based in some fashion. It's more all the nitty gritty settings, reloading apps, things like that that are time consuming."
+	},
+	{
 		"created_at": "Thu Oct 03 00:02:44 +0000 2019",
 		"id": 1179547292354908200,
 		"id_str": "1179547292354908160",
