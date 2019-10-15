@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 21:06:00 +0000 2019",
+		"id": 1183849103417073700,
+		"id_str": "1183851470082445312",
+		"full_text": "https://t.co/QhaW6rghRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183849035930751000,
+					"id_str": "1183849035930750979",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183849035930750979/pu/img/lC38k78m2lRvE_pv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183849035930750979/pu/img/lC38k78m2lRvE_pv.jpg",
+					"url": "https://t.co/QhaW6rghRv",
+					"display_url": "pic.twitter.com/QhaW6rghRv",
+					"expanded_url": "https://twitter.com/ReclaimArcade/status/1183849103417073666/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183849035930751000,
+					"id_str": "1183849035930750979",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183849035930750979/pu/img/lC38k78m2lRvE_pv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183849035930750979/pu/img/lC38k78m2lRvE_pv.jpg",
+					"url": "https://t.co/QhaW6rghRv",
+					"display_url": "pic.twitter.com/QhaW6rghRv",
+					"expanded_url": "https://twitter.com/ReclaimArcade/status/1183849103417073666/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15040,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183849035930750979/pu/vid/480x270/zZkYgI4cA3ocmTvs.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1183849035930750979/pu/pl/2DXJhBjejqiSPlKs.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183849035930750979/pu/vid/640x360/kU0ZY4ExTIrbeGW2.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183849035930750979/pu/vid/1280x720/YgiM_5kEbDJZxqGh.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174481114192384000,
+			"id_str": "1174481114192384000",
+			"name": "Reclaim Arcade",
+			"screen_name": "ReclaimArcade",
+			"location": "Fredericksburg, Virginia",
+			"description": "",
+			"url": "https://t.co/FsOdkzvbyk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FsOdkzvbyk",
+							"expanded_url": "https://reclaimarcade.com",
+							"display_url": "reclaimarcade.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Sep 19 00:31:45 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174481348221968384/xbH8fOsL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174481348221968384/xbH8fOsL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174481114192384000/1568853250",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QhaW6rghRv"
+	},
+	{
 		"created_at": "Sun Oct 13 22:29:14 +0000 2019",
 		"id": 1183510029065953300,
 		"id_str": "1183510029065953280",
