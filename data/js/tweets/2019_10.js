@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 13:02:48 +0000 2019",
+		"id": 1186990307231129600,
+		"id_str": "1186991363470090240",
+		"full_text": "One of the things that compels me most about #DoOO is the way people imagine the work within their local campus and community cultures. We borrow a lot from each other, but each articulation is brilliantly particular. https://t.co/UC1MxmywsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UC1MxmywsS",
+					"expanded_url": "https://twitter.com/educause/status/1186749123413889026",
+					"display_url": "twitter.com/educause/statu…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17844743,
+			"id_str": "17844743",
+			"name": "ltaub",
+			"screen_name": "ltaub",
+			"location": "Allentown PA",
+			"description": "Dean for Digital Learning @Muhlenberg. Professor of Media & Communication @bergmc2. Director @docstorylv @UniteHYPE @YMediaR Appreciator of horizons.",
+			"url": "https://t.co/yPNseCQ8VG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yPNseCQ8VG",
+							"expanded_url": "http://lorataub.com",
+							"display_url": "lorataub.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1197,
+			"friends_count": 975,
+			"listed_count": 86,
+			"created_at": "Wed Dec 03 18:58:08 +0000 2008",
+			"favourites_count": 21004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C7C295",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012703587686739968/4X0XsMDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012703587686739968/4X0XsMDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17844743/1442858885",
+			"profile_link_color": "C4B314",
+			"profile_sidebar_border_color": "4A3D34",
+			"profile_sidebar_fill_color": "F7367D",
+			"profile_text_color": "F26E35",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1186749123413889000,
+		"quoted_status_id_str": "1186749123413889026",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UC1MxmywsS",
+			"expanded": "https://twitter.com/educause/status/1186749123413889026",
+			"display": "twitter.com/educause/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 22 21:00:14 +0000 2019",
+			"id": 1186749123413889000,
+			"id_str": "1186749123413889026",
+			"full_text": "#7Things You Should Know About a Domain of One’s Own https://t.co/FOWMQDzuZV #LearningEnvironments #TeachingandLearning https://t.co/4aqxSa7Lry",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "7Things",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "LearningEnvironments",
+						"indices": [
+							77,
+							98
+						]
+					},
+					{
+						"text": "TeachingandLearning",
+						"indices": [
+							99,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FOWMQDzuZV",
+						"expanded_url": "https://library.educause.edu/resources/2019/10/7-things-you-should-know-about-a-domain-of-ones-own",
+						"display_url": "library.educause.edu/resources/2019…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1186749119710273500,
+						"id_str": "1186749119710273536",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/EHguCWXWoAAnITr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHguCWXWoAAnITr.jpg",
+						"url": "https://t.co/4aqxSa7Lry",
+						"display_url": "pic.twitter.com/4aqxSa7Lry",
+						"expanded_url": "https://twitter.com/educause/status/1186749123413889026/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1186749119710273500,
+						"id_str": "1186749119710273536",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/EHguCWXWoAAnITr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHguCWXWoAAnITr.jpg",
+						"url": "https://t.co/4aqxSa7Lry",
+						"display_url": "pic.twitter.com/4aqxSa7Lry",
+						"expanded_url": "https://twitter.com/educause/status/1186749123413889026/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15237481,
+				"id_str": "15237481",
+				"name": "EDUCAUSE",
+				"screen_name": "educause",
+				"location": "",
+				"description": "Nonprofit association helping #highered optimize the impact of IT.",
+				"url": "https://t.co/Im4lPvqvfj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Im4lPvqvfj",
+								"expanded_url": "http://www.educause.edu",
+								"display_url": "educause.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54259,
+				"friends_count": 13247,
+				"listed_count": 2743,
+				"created_at": "Wed Jun 25 22:37:04 +0000 2008",
+				"favourites_count": 8587,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13884,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B30838",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793121077438222336/A6b_7cFL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793121077438222336/A6b_7cFL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15237481/1564427926",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the things that compels me most about #DoOO is the way people imagine the work within their local campus and community cultures. We borrow a lot from each other, but each articulation is brilliantly particular. https://t.co/UC1MxmywsS"
+	},
+	{
 		"created_at": "Tue Oct 22 12:28:15 +0000 2019",
 		"id": 1186620280548024300,
 		"id_str": "1186620280548024321",
