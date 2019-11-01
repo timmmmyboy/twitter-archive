@@ -1,6 +1,697 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 18:34:26 +0000 2019",
+		"id": 1189586652269875200,
+		"id_str": "1189973921333960709",
+		"full_text": "We have so much to share in the coming months, but today we are excited to kick things off by announcing our plans to open Reclaim Arcade, a retro-modern arcade bar, in Fredericksburg Virginia in Spring of 2020 https://t.co/alW25g82qb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189586506282864600,
+					"id_str": "1189586506282864641",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189586506282864641/pu/img/CK06uZFBJG4NVlue.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189586506282864641/pu/img/CK06uZFBJG4NVlue.jpg",
+					"url": "https://t.co/alW25g82qb",
+					"display_url": "pic.twitter.com/alW25g82qb",
+					"expanded_url": "https://twitter.com/ReclaimArcade/status/1189586652269875201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189586506282864600,
+					"id_str": "1189586506282864641",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189586506282864641/pu/img/CK06uZFBJG4NVlue.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189586506282864641/pu/img/CK06uZFBJG4NVlue.jpg",
+					"url": "https://t.co/alW25g82qb",
+					"display_url": "pic.twitter.com/alW25g82qb",
+					"expanded_url": "https://twitter.com/ReclaimArcade/status/1189586652269875201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 71800,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189586506282864641/pu/pl/DCdoSQghXvLOr5kT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189586506282864641/pu/vid/320x320/P_tCaYKKM_qNJXOI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189586506282864641/pu/vid/480x480/j0ksgWXt-6LZy2GU.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189586506282864641/pu/vid/720x720/PK0i3sHP6nj-Uyyp.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174481114192384000,
+			"id_str": "1174481114192384000",
+			"name": "Reclaim Arcade",
+			"screen_name": "ReclaimArcade",
+			"location": "Fredericksburg, Virginia",
+			"description": "Reclaim Arcade is a unique retro-modern entertainment venue merging popular vintage arcade games and pinball of the 70s, 80s, and 90s with a modern atmosphere.",
+			"url": "https://t.co/FsOdkzvbyk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FsOdkzvbyk",
+							"expanded_url": "https://reclaimarcade.com",
+							"display_url": "reclaimarcade.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Sep 19 00:31:45 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189579448678584321/fVH5bAI1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189579448678584321/fVH5bAI1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174481114192384000/1572452817",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have so much to share in the coming months, but today we are excited to kick things off by announcing our plans to open Reclaim Arcade, a retro-modern arcade bar, in Fredericksburg Virginia in Spring of 2020 https://t.co/alW25g82qb"
+	},
+	{
+		"created_at": "Thu Oct 31 16:18:06 +0000 2019",
+		"id": 1189939612912947200,
+		"id_str": "1189939612912947200",
+		"full_text": "Happy Halloween. Wanna bum a smoke? https://t.co/L1j4NKzjiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189939608903147500,
+					"id_str": "1189939608903147521",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EIODxQzW4AEcExd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIODxQzW4AEcExd.jpg",
+					"url": "https://t.co/L1j4NKzjiS",
+					"display_url": "pic.twitter.com/L1j4NKzjiS",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1189939612912947200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 187,
+									"h": 329,
+									"w": 329
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 239,
+									"y": 117,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 187,
+									"h": 329,
+									"w": 329
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 187,
+									"h": 329,
+									"w": 329
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189939608903147500,
+					"id_str": "1189939608903147521",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EIODxQzW4AEcExd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIODxQzW4AEcExd.jpg",
+					"url": "https://t.co/L1j4NKzjiS",
+					"display_url": "pic.twitter.com/L1j4NKzjiS",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1189939612912947200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 187,
+									"h": 329,
+									"w": 329
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 239,
+									"y": 117,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 187,
+									"h": 329,
+									"w": 329
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 381,
+									"y": 187,
+									"h": 329,
+									"w": 329
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 288,
+			"listed_count": 7,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Halloween. Wanna bum a smoke? https://t.co/L1j4NKzjiS"
+	},
+	{
+		"created_at": "Thu Oct 31 15:44:28 +0000 2019",
+		"id": 1189927249752887300,
+		"id_str": "1189931147561766912",
+		"full_text": "If you still subscribe to the notion you should do everything Jim Groom tells you on the internet (there has got to be 2 or 3 of you left) go like the @reclaimarcade Facebook page for the love of god! https://t.co/L6qqEHupDc #likeandsubsribeformo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "likeandsubsribeformo",
+					"indices": [
+						225,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimArcade",
+					"name": "Reclaim Arcade",
+					"id": 1174481114192384000,
+					"id_str": "1174481114192384000",
+					"indices": [
+						151,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L6qqEHupDc",
+					"expanded_url": "https://www.facebook.com/reclaimarcade/",
+					"display_url": "facebook.com/reclaimarcade/",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3362981,
+			"id_str": "3362981",
+			"name": "Jim Groom",
+			"screen_name": "jimgroom",
+			"location": "supine",
+			"description": "a b twit",
+			"url": "https://t.co/qHimKmPXIO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qHimKmPXIO",
+							"expanded_url": "http://bavatuesdays.com",
+							"display_url": "bavatuesdays.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5561,
+			"friends_count": 2169,
+			"listed_count": 529,
+			"created_at": "Tue Apr 03 21:20:45 +0000 2007",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626944793302581248/TxzPTAYL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626944793302581248/TxzPTAYL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3362981/1438310580",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you still subscribe to the notion you should do everything Jim Groom tells you on the internet (there has got to be 2 or 3 of you left) go like the @reclaimarcade Facebook page for the love of god! https://t.co/L6qqEHupDc #likeandsubsribeformo"
+	},
+	{
+		"created_at": "Thu Oct 31 14:41:35 +0000 2019",
+		"id": 1189915326005289000,
+		"id_str": "1189915326005288967",
+		"full_text": "It’s a shame “Sent from my iPhone” comes at the end of the email instead of the beginning. Could be a nice heads up that the person sending the email is likely as obnoxious as that signature.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 288,
+			"listed_count": 7,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025923581417541633/YBNGcPYZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s a shame “Sent from my iPhone” comes at the end of the email instead of the beginning. Could be a nice heads up that the person sending the email is likely as obnoxious as that signature."
+	},
+	{
 		"created_at": "Wed Oct 30 21:52:36 +0000 2019",
 		"id": 1189661403126345700,
 		"id_str": "1189661403126345728",
