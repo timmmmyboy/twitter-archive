@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 22:30:49 +0000 2019",
+		"id": 1194744453174567000,
+		"id_str": "1194744453174566914",
+		"full_text": "New license plate 🤘 https://t.co/P2XD7r0w4i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194744444278493200,
+					"id_str": "1194744444278493185",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSVvfaXUAETjO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSVvfaXUAETjO6.jpg",
+					"url": "https://t.co/P2XD7r0w4i",
+					"display_url": "pic.twitter.com/P2XD7r0w4i",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1194744453174566914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194744444278493200,
+					"id_str": "1194744444278493185",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSVvfaXUAETjO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSVvfaXUAETjO6.jpg",
+					"url": "https://t.co/P2XD7r0w4i",
+					"display_url": "pic.twitter.com/P2XD7r0w4i",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1194744453174566914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New license plate 🤘 https://t.co/P2XD7r0w4i"
+	},
+	{
 		"created_at": "Tue Nov 12 17:19:55 +0000 2019",
 		"id": 1194303822845403100,
 		"id_str": "1194303822845403143",
