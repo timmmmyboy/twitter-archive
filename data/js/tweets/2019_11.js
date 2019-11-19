@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 17:31:33 +0000 2019",
+		"id": 1196481078015467500,
+		"id_str": "1196481078015467523",
+		"full_text": "@realdlnorman https://t.co/pZSRjUKbRV",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realdlnorman",
+					"name": "D'Arcy Norman",
+					"id": 817493053527113700,
+					"id_str": "817493053527113729",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196481047946563600,
+					"id_str": "1196481047946563585",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJrBLINXkAEI8wS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJrBLINXkAEI8wS.jpg",
+					"url": "https://t.co/pZSRjUKbRV",
+					"display_url": "pic.twitter.com/pZSRjUKbRV",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1196481078015467523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 424,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196481047946563600,
+					"id_str": "1196481047946563585",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJrBLINXkAEI8wS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJrBLINXkAEI8wS.jpg",
+					"url": "https://t.co/pZSRjUKbRV",
+					"display_url": "pic.twitter.com/pZSRjUKbRV",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1196481078015467523/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 424,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							212,
+							215
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EJrBLINXkAEI8wS.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1196480404431130600,
+		"in_reply_to_status_id_str": "1196480404431130626",
+		"in_reply_to_user_id": 817493053527113700,
+		"in_reply_to_user_id_str": "817493053527113729",
+		"in_reply_to_screen_name": "realdlnorman",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 287,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@realdlnorman https://t.co/pZSRjUKbRV"
+	},
+	{
 		"created_at": "Sun Nov 17 15:34:05 +0000 2019",
 		"id": 1196089131715235800,
 		"id_str": "1196089131715235841",
