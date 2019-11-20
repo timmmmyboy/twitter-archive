@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 03:05:39 +0000 2019",
+		"id": 1196625555799629800,
+		"id_str": "1196625555799629827",
+		"full_text": "@Tom_Var I'm here for all of it!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tom_Var",
+					"name": "Tom Var ➡️ 《h-a-x》 camp",
+					"id": 2442870835,
+					"id_str": "2442870835",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1196622987828617200,
+		"in_reply_to_status_id_str": "1196622987828617217",
+		"in_reply_to_user_id": 2442870835,
+		"in_reply_to_user_id_str": "2442870835",
+		"in_reply_to_screen_name": "Tom_Var",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 287,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Tom_Var I'm here for all of it!"
+	},
+	{
+		"created_at": "Tue Nov 19 02:50:12 +0000 2019",
+		"id": 1196621667860189200,
+		"id_str": "1196621667860189184",
+		"full_text": "Excuse me while I briefly lose my shit. *Ahhhhhhhhhhhhh!!!!!* https://t.co/Rsu5SqmB3I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rsu5SqmB3I",
+					"expanded_url": "https://twitter.com/valvesoftware/status/1196566870360387584",
+					"display_url": "twitter.com/valvesoftware/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 287,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190107396741484544/liV17l_a_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196566870360387600,
+		"quoted_status_id_str": "1196566870360387584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Rsu5SqmB3I",
+			"expanded": "https://twitter.com/valvesoftware/status/1196566870360387584",
+			"display": "twitter.com/valvesoftware/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 18 23:12:27 +0000 2019",
+			"id": 1196566870360387600,
+			"id_str": "1196566870360387584",
+			"full_text": "We’re excited to unveil Half-Life: Alyx, our flagship VR game, this Thursday at 10am Pacific Time.\n\nCan’t wait to share it with all of you! https://t.co/BupFCxSrTw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1196566866539335700,
+						"id_str": "1196566866539335680",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EJsPObYUUAAiLap.png",
+						"media_url_https": "https://pbs.twimg.com/media/EJsPObYUUAAiLap.png",
+						"url": "https://t.co/BupFCxSrTw",
+						"display_url": "pic.twitter.com/BupFCxSrTw",
+						"expanded_url": "https://twitter.com/valvesoftware/status/1196566870360387584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1399,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 820,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1196566866539335700,
+						"id_str": "1196566866539335680",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EJsPObYUUAAiLap.png",
+						"media_url_https": "https://pbs.twimg.com/media/EJsPObYUUAAiLap.png",
+						"url": "https://t.co/BupFCxSrTw",
+						"display_url": "pic.twitter.com/BupFCxSrTw",
+						"expanded_url": "https://twitter.com/valvesoftware/status/1196566870360387584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1399,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 820,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1141417774201184300,
+				"id_str": "1141417774201184257",
+				"name": "Valve",
+				"screen_name": "valvesoftware",
+				"location": "Bellevue, WA",
+				"description": "We make games, Steam, and hardware.\n\nFor support, visit https://t.co/VRsFD4GURP.",
+				"url": "https://t.co/IdkyuOPKeB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IdkyuOPKeB",
+								"expanded_url": "http://valvesoftware.com",
+								"display_url": "valvesoftware.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VRsFD4GURP",
+								"expanded_url": "http://help.steampowered.com",
+								"display_url": "help.steampowered.com",
+								"indices": [
+									56,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 74130,
+				"friends_count": 8,
+				"listed_count": 128,
+				"created_at": "Wed Jun 19 18:49:38 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1196563043150204928/X6pfa2YZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196563043150204928/X6pfa2YZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141417774201184257/1574117836",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39977,
+			"favorite_count": 126258,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excuse me while I briefly lose my shit. *Ahhhhhhhhhhhhh!!!!!* https://t.co/Rsu5SqmB3I"
+	},
+	{
 		"created_at": "Mon Nov 18 17:31:33 +0000 2019",
 		"id": 1196481078015467500,
 		"id_str": "1196481078015467523",
