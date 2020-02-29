@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 28 20:30:59 +0000 2020",
+		"id": 1233485451270512600,
+		"id_str": "1233489798263975937",
+		"full_text": "WATCH: #spotsycounts 2020 Census video by @SpotsyGov, featuring Ms. Busch's 5th graders and Ms. Owens' kindergartners from RE Lee Elementary!! @RELeePrincipal @uscensusbureau\n\nLINK: https://t.co/fYYaSZvWl4\nhttps://t.co/fYYaSZvWl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spotsycounts",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotsyGov",
+					"name": "Spotsygov",
+					"id": 127620247,
+					"id_str": "127620247",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "RELeePrincipal",
+					"name": "RELeeElemPrincipal",
+					"id": 325211081,
+					"id_str": "325211081",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"screen_name": "uscensusbureau",
+					"name": "U.S. Census Bureau",
+					"id": 23092890,
+					"id_str": "23092890",
+					"indices": [
+						159,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fYYaSZvWl4",
+					"expanded_url": "https://www.youtube.com/watch?v=AqYmJbCs1uc",
+					"display_url": "youtube.com/watch?v=AqYmJb…",
+					"indices": [
+						182,
+						205
+					]
+				},
+				{
+					"url": "https://t.co/fYYaSZvWl4",
+					"expanded_url": "https://www.youtube.com/watch?v=AqYmJbCs1uc",
+					"display_url": "youtube.com/watch?v=AqYmJb…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37943659,
+			"id_str": "37943659",
+			"name": "Spotsylvania Schools",
+			"screen_name": "SpotsySchools",
+			"location": "Spotsylvania, VA",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9097,
+			"friends_count": 218,
+			"listed_count": 71,
+			"created_at": "Tue May 05 15:16:53 +0000 2009",
+			"favourites_count": 4748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/444189123046162432/4dyF0m6W_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/444189123046162432/4dyF0m6W_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37943659/1578321402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WATCH: #spotsycounts 2020 Census video by @SpotsyGov, featuring Ms. Busch's 5th graders and Ms. Owens' kindergartners from RE Lee Elementary!! @RELeePrincipal @uscensusbureau\n\nLINK: https://t.co/fYYaSZvWl4\nhttps://t.co/fYYaSZvWl4"
+	},
+	{
 		"created_at": "Thu Feb 27 12:19:24 +0000 2020",
 		"id": 1233003700244840400,
 		"id_str": "1233003700244840449",
