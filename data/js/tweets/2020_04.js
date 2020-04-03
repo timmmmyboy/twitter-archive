@@ -1,6 +1,889 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 01:13:59 +0000 2020",
+		"id": 1245882203789308000,
+		"id_str": "1245882203789307905",
+		"full_text": "@DrGarcia I love the idea of the opponent picking the wildcard ingredient for sure. I guess I thought common ingredients only to level playing field, but you have a good point no one but us gets to taste it :)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrGarcia",
+					"name": "GNA Garcia",
+					"id": 19897497,
+					"id_str": "19897497",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1245817955838906400,
+		"in_reply_to_status_id_str": "1245817955838906373",
+		"in_reply_to_user_id": 19897497,
+		"in_reply_to_user_id_str": "19897497",
+		"in_reply_to_screen_name": "DrGarcia",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrGarcia I love the idea of the opponent picking the wildcard ingredient for sure. I guess I thought common ingredients only to level playing field, but you have a good point no one but us gets to taste it :)"
+	},
+	{
+		"created_at": "Thu Apr 02 21:50:37 +0000 2020",
+		"id": 1245831025265184800,
+		"id_str": "1245831025265184771",
+		"full_text": "@billgx https://t.co/W1ac4yvwNw to grab audio from computer and https://t.co/uPTYRJ3hdV to treat it as input and stream to radio is probably easiest route forward. Jim used Soundflower for this setup but BlackHole is probably more reliable today https://t.co/eA0Q2E0q4m",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billgx",
+					"name": "Bill Genereux",
+					"id": 14168970,
+					"id_str": "14168970",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W1ac4yvwNw",
+					"expanded_url": "https://github.com/ExistentialAudio/BlackHole",
+					"display_url": "github.com/ExistentialAud…",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/uPTYRJ3hdV",
+					"expanded_url": "https://apps.apple.com/us/app/ladiocast/id411213048?mt=12",
+					"display_url": "apps.apple.com/us/app/ladioca…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/eA0Q2E0q4m",
+					"expanded_url": "https://bavatuesdays.com/what-i-learned-from-getting-back-on-ds106radio/",
+					"display_url": "bavatuesdays.com/what-i-learned…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1245822784472785000,
+		"in_reply_to_status_id_str": "1245822784472784904",
+		"in_reply_to_user_id": 14168970,
+		"in_reply_to_user_id_str": "14168970",
+		"in_reply_to_screen_name": "billgx",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@billgx https://t.co/W1ac4yvwNw to grab audio from computer and https://t.co/uPTYRJ3hdV to treat it as input and stream to radio is probably easiest route forward. Jim used Soundflower for this setup but BlackHole is probably more reliable today https://t.co/eA0Q2E0q4m"
+	},
+	{
+		"created_at": "Thu Apr 02 17:29:33 +0000 2020",
+		"id": 1245765326748426200,
+		"id_str": "1245765326748426244",
+		"full_text": "@TaylorJadin Nice tip! But never hurts to understand how it all works under the hood.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaylorJadin",
+					"name": "Taylor Jadin",
+					"id": 14833310,
+					"id_str": "14833310",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1245737932402692000,
+		"in_reply_to_status_id_str": "1245737932402692097",
+		"in_reply_to_user_id": 14833310,
+		"in_reply_to_user_id_str": "14833310",
+		"in_reply_to_screen_name": "TaylorJadin",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TaylorJadin Nice tip! But never hurts to understand how it all works under the hood."
+	},
+	{
+		"created_at": "Thu Apr 02 17:23:17 +0000 2020",
+		"id": 1245763750252155000,
+		"id_str": "1245763750252154881",
+		"full_text": "@DrGarcia I love it. Maybe a basic inventory of what we each have in stock sent to a third party individual who picks common ingredients between the two for the element of surprise. Or we get a list of staples ahead of time that both should have and then one secret ingredient picked.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrGarcia",
+					"name": "GNA Garcia",
+					"id": 19897497,
+					"id_str": "19897497",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1245540108796747800,
+		"in_reply_to_status_id_str": "1245540108796747776",
+		"in_reply_to_user_id": 19897497,
+		"in_reply_to_user_id_str": "19897497",
+		"in_reply_to_screen_name": "DrGarcia",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrGarcia I love it. Maybe a basic inventory of what we each have in stock sent to a third party individual who picks common ingredients between the two for the element of surprise. Or we get a list of staples ahead of time that both should have and then one secret ingredient picked."
+	},
+	{
+		"created_at": "Thu Apr 02 17:21:10 +0000 2020",
+		"id": 1245763215088390100,
+		"id_str": "1245763215088390146",
+		"full_text": "@scottlo @billgx @jimgroom @SecondLife You’ll have to fill me in on the details, but whatever it is I’m in! :D",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottlo",
+					"name": "scottlo",
+					"id": 1154221,
+					"id_str": "1154221",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "billgx",
+					"name": "Bill Genereux",
+					"id": 14168970,
+					"id_str": "14168970",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "SecondLife",
+					"name": "SecondLife",
+					"id": 772844,
+					"id_str": "772844",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1245757740443566000,
+		"in_reply_to_status_id_str": "1245757740443566081",
+		"in_reply_to_user_id": 1154221,
+		"in_reply_to_user_id_str": "1154221",
+		"in_reply_to_screen_name": "scottlo",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scottlo @billgx @jimgroom @SecondLife You’ll have to fill me in on the details, but whatever it is I’m in! :D"
+	},
+	{
+		"created_at": "Thu Apr 02 17:10:09 +0000 2020",
+		"id": 1245760442540216300,
+		"id_str": "1245760442540216320",
+		"full_text": "@billgx Broadcasting to #ds106tv is a bit harder at the moment, need to find some easier ways or document at the very least. For streaming to radio do you have Soundflower or other way to capture audio as input to Ladiocast? AudioHijack Pro is a great option if you have a license already",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ds106tv",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billgx",
+					"name": "Bill Genereux",
+					"id": 14168970,
+					"id_str": "14168970",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1245740965337477000,
+		"in_reply_to_status_id_str": "1245740965337477121",
+		"in_reply_to_user_id": 14168970,
+		"in_reply_to_user_id_str": "14168970",
+		"in_reply_to_screen_name": "billgx",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@billgx Broadcasting to #ds106tv is a bit harder at the moment, need to find some easier ways or document at the very least. For streaming to radio do you have Soundflower or other way to capture audio as input to Ladiocast? AudioHijack Pro is a great option if you have a license already"
+	},
+	{
+		"created_at": "Thu Apr 02 15:18:26 +0000 2020",
+		"id": 1245732328112033800,
+		"id_str": "1245732328112033792",
+		"full_text": "Me at the beginning of every video chat when someone says “How are you doing?” https://t.co/M6xd0rHxen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245732299704066000,
+					"id_str": "1245732299704066049",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUm67SkXYAEKHCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUm67SkXYAEKHCJ.jpg",
+					"url": "https://t.co/M6xd0rHxen",
+					"display_url": "pic.twitter.com/M6xd0rHxen",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1245732328112033792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245732299704066000,
+					"id_str": "1245732299704066049",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUm67SkXYAEKHCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUm67SkXYAEKHCJ.jpg",
+					"url": "https://t.co/M6xd0rHxen",
+					"display_url": "pic.twitter.com/M6xd0rHxen",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1245732328112033792/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							73
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUm67SkXYAEKHCJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me at the beginning of every video chat when someone says “How are you doing?” https://t.co/M6xd0rHxen"
+	},
+	{
 		"created_at": "Wed Apr 01 22:55:45 +0000 2020",
 		"id": 1245485028777353200,
 		"id_str": "1245485028777353218",
