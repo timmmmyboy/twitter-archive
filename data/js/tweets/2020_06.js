@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 03:21:17 +0000 2020",
+		"id": 1268744677722898400,
+		"id_str": "1268744677722898432",
+		"full_text": "@Dharmah35 Very cool! Let me know when it’s in the store. I want to pick up some of the pride soap too, I think my daughter would love the colors.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dharmah35",
+					"name": "Gwendolyn Hale",
+					"id": 339388308,
+					"id_str": "339388308",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1268732834728030200,
+		"in_reply_to_status_id_str": "1268732834728030208",
+		"in_reply_to_user_id": 339388308,
+		"in_reply_to_user_id_str": "339388308",
+		"in_reply_to_screen_name": "Dharmah35",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 287,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dharmah35 Very cool! Let me know when it’s in the store. I want to pick up some of the pride soap too, I think my daughter would love the colors."
+	},
+	{
 		"created_at": "Wed Jun 03 19:15:19 +0000 2020",
 		"id": 1268259991552696300,
 		"id_str": "1268259991552696320",
