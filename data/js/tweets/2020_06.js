@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 21:18:19 +0000 2020",
+		"id": 1277713028381884400,
+		"id_str": "1277713028381884417",
+		"full_text": "@jasongreen Since we’re less than 48 hours away from a public beta, why not :) Here’s a short list. https://t.co/uZzIAop2Vz",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasongreen",
+					"name": "Jason Green",
+					"id": 14587524,
+					"id_str": "14587524",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277713022031724500,
+					"id_str": "1277713022031724544",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EbtZOVMXgAAtZ1C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbtZOVMXgAAtZ1C.jpg",
+					"url": "https://t.co/uZzIAop2Vz",
+					"display_url": "pic.twitter.com/uZzIAop2Vz",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1277713028381884417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277713022031724500,
+					"id_str": "1277713022031724544",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EbtZOVMXgAAtZ1C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbtZOVMXgAAtZ1C.jpg",
+					"url": "https://t.co/uZzIAop2Vz",
+					"display_url": "pic.twitter.com/uZzIAop2Vz",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1277713028381884417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 643,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1277712170936086500,
+		"in_reply_to_status_id_str": "1277712170936086528",
+		"in_reply_to_user_id": 14587524,
+		"in_reply_to_user_id_str": "14587524",
+		"in_reply_to_screen_name": "jasongreen",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jasongreen Since we’re less than 48 hours away from a public beta, why not :) Here’s a short list. https://t.co/uZzIAop2Vz"
+	},
+	{
+		"created_at": "Mon Jun 29 21:12:10 +0000 2020",
+		"id": 1277711481417674800,
+		"id_str": "1277711481417674752",
+		"full_text": "Some more Reclaim Cloud fun today as I continue building installers during the beta. https://t.co/H5le1BIb5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277711478481698800,
+					"id_str": "1277711478481698817",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EbtX0fBXQAExYwG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbtX0fBXQAExYwG.png",
+					"url": "https://t.co/H5le1BIb5U",
+					"display_url": "pic.twitter.com/H5le1BIb5U",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1277711481417674752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 854,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 229,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277711478481698800,
+					"id_str": "1277711478481698817",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EbtX0fBXQAExYwG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbtX0fBXQAExYwG.png",
+					"url": "https://t.co/H5le1BIb5U",
+					"display_url": "pic.twitter.com/H5le1BIb5U",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1277711481417674752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 854,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 229,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some more Reclaim Cloud fun today as I continue building installers during the beta. https://t.co/H5le1BIb5U"
+	},
+	{
+		"created_at": "Mon Jun 29 19:03:22 +0000 2020",
+		"id": 1277679066146054100,
+		"id_str": "1277679066146054146",
+		"full_text": "@Dharmah35 All good, my dad has been immobile for awhile now (lymphodema in legs) but recently mom fell and dislocated knee cap 😬 She is on the mend though and they have support systems in place. Was just good to be on the ground there and be able to help.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dharmah35",
+					"name": "Gwendolyn Hale",
+					"id": 339388308,
+					"id_str": "339388308",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1277663072400932900,
+		"in_reply_to_status_id_str": "1277663072400932864",
+		"in_reply_to_user_id": 339388308,
+		"in_reply_to_user_id_str": "339388308",
+		"in_reply_to_screen_name": "Dharmah35",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dharmah35 All good, my dad has been immobile for awhile now (lymphodema in legs) but recently mom fell and dislocated knee cap 😬 She is on the mend though and they have support systems in place. Was just good to be on the ground there and be able to help."
+	},
+	{
+		"created_at": "Mon Jun 29 17:32:22 +0000 2020",
+		"id": 1277656166378737700,
+		"id_str": "1277656166378737666",
+		"full_text": "@thirdcoast So so true.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thirdcoast",
+					"name": "Tim Lepczyk",
+					"id": 82174104,
+					"id_str": "82174104",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1277445174508036000,
+		"in_reply_to_status_id_str": "1277445174508036096",
+		"in_reply_to_user_id": 82174104,
+		"in_reply_to_user_id_str": "82174104",
+		"in_reply_to_screen_name": "thirdcoast",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thirdcoast So so true."
+	},
+	{
 		"created_at": "Sat Jun 27 11:13:19 +0000 2020",
 		"id": 1276835998224257000,
 		"id_str": "1276835998224257027",
