@@ -1,6 +1,854 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 23:20:01 +0000 2020",
+		"id": 1281005145027985400,
+		"id_str": "1281005145027985410",
+		"full_text": "@scottlo @ReclaimHosting @jimgroom The sultry sounds of two washed up EdTech gurus. What a sell!",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottlo",
+					"name": "scottlo",
+					"id": 1154221,
+					"id_str": "1154221",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1280984859142324200,
+		"in_reply_to_status_id_str": "1280984859142324225",
+		"in_reply_to_user_id": 1154221,
+		"in_reply_to_user_id_str": "1154221",
+		"in_reply_to_screen_name": "scottlo",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scottlo @ReclaimHosting @jimgroom The sultry sounds of two washed up EdTech gurus. What a sell!"
+	},
+	{
+		"created_at": "Wed Jul 08 21:48:03 +0000 2020",
+		"id": 1280982002544578600,
+		"id_str": "1280982002544578570",
+		"full_text": "@techsavvyed @ReclaimHosting @jimgroom I have a great answer for this :) Be sure to watch!",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techsavvyed",
+					"name": "Ben Rimes",
+					"id": 11144032,
+					"id_str": "11144032",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1280979399693734000,
+		"in_reply_to_status_id_str": "1280979399693733893",
+		"in_reply_to_user_id": 11144032,
+		"in_reply_to_user_id_str": "11144032",
+		"in_reply_to_screen_name": "techsavvyed",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@techsavvyed @ReclaimHosting @jimgroom I have a great answer for this :) Be sure to watch!"
+	},
+	{
+		"created_at": "Wed Jul 08 21:40:30 +0000 2020",
+		"id": 1280980103720251400,
+		"id_str": "1280980103720251396",
+		"full_text": "@sleslie Nice! Glad to hear your first impressions are good. We are very excited by the possibilities :)",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sleslie",
+					"name": "Scott Leslie",
+					"id": 3567831,
+					"id_str": "3567831",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1280951907364700200,
+		"in_reply_to_status_id_str": "1280951907364700161",
+		"in_reply_to_user_id": 3567831,
+		"in_reply_to_user_id_str": "3567831",
+		"in_reply_to_screen_name": "sleslie",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sleslie Nice! Glad to hear your first impressions are good. We are very excited by the possibilities :)"
+	},
+	{
+		"created_at": "Wed Jul 08 16:57:29 +0000 2020",
+		"id": 1280908880395022300,
+		"id_str": "1280908880395022338",
+		"full_text": "@sleslie Yeah sorry it’s for the cloud service. Easy signup if you haven’t already and free during beta. https://t.co/TLNKFSxteF",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sleslie",
+					"name": "Scott Leslie",
+					"id": 3567831,
+					"id_str": "3567831",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TLNKFSxteF",
+					"expanded_url": "https://reclaim.cloud",
+					"display_url": "reclaim.cloud",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1280908023020417000,
+		"in_reply_to_status_id_str": "1280908023020417025",
+		"in_reply_to_user_id": 3567831,
+		"in_reply_to_user_id_str": "3567831",
+		"in_reply_to_screen_name": "sleslie",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sleslie Yeah sorry it’s for the cloud service. Easy signup if you haven’t already and free during beta. https://t.co/TLNKFSxteF"
+	},
+	{
+		"created_at": "Wed Jul 08 15:46:51 +0000 2020",
+		"id": 1280891104817184800,
+		"id_str": "1280891104817184769",
+		"full_text": "Been on the hunt for good open source wiki software for a long time. Wiki.js seems to be exactly that, slick and polished. https://t.co/934Xozi7fX So of course I built an installer for Reclaim Cloud https://t.co/VR6enLlStt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/934Xozi7fX",
+					"expanded_url": "https://wiki.js.org/",
+					"display_url": "wiki.js.org",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/VR6enLlStt",
+					"expanded_url": "https://community.reclaimhosting.com/t/wiki-js-now-in-marketplace/3098",
+					"display_url": "community.reclaimhosting.com/t/wiki-js-now-…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 288,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Been on the hunt for good open source wiki software for a long time. Wiki.js seems to be exactly that, slick and polished. https://t.co/934Xozi7fX So of course I built an installer for Reclaim Cloud https://t.co/VR6enLlStt"
+	},
+	{
+		"created_at": "Wed Jul 08 14:39:24 +0000 2020",
+		"id": 1280849118001131500,
+		"id_str": "1280874127105101825",
+		"full_text": "#virtualvste has a draft schedule out, registration is still open, and you can still add your awesomeness to the playground collection!!\n\nThis will be amazing!!\nhttps://t.co/xwH1fZvFoJ\n\n@vste @edtechcs @timmmmyboy @witchyrichy @thewrightleader @pattersonaubrey @awfrench1 https://t.co/Tskejt23n7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "virtualvste",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vste",
+					"name": "VSTE World Hqtrs",
+					"id": 8544882,
+					"id_str": "8544882",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"screen_name": "edtechcs",
+					"name": "Craig Spraggins",
+					"id": 2731570135,
+					"id_str": "2731570135",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"screen_name": "witchyrichy",
+					"name": "Karen Richardson",
+					"id": 1504591,
+					"id_str": "1504591",
+					"indices": [
+						214,
+						226
+					]
+				},
+				{
+					"screen_name": "thewrightleader",
+					"name": "Vernon Wright • Speaker | Entrepreneur | Visionary",
+					"id": 3249396110,
+					"id_str": "3249396110",
+					"indices": [
+						227,
+						243
+					]
+				},
+				{
+					"screen_name": "pattersonaubrey",
+					"name": "Aubrey Patterson 🏝",
+					"id": 82792608,
+					"id_str": "82792608",
+					"indices": [
+						244,
+						260
+					]
+				},
+				{
+					"screen_name": "awfrench1",
+					"name": "Abigail French",
+					"id": 963063066488434700,
+					"id_str": "963063066488434688",
+					"indices": [
+						261,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xwH1fZvFoJ",
+					"expanded_url": "https://vste.org/vstevirtual2020/",
+					"display_url": "vste.org/vstevirtual202…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280818204550537200,
+					"id_str": "1280818204550537216",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EcZhXvgWoAAIMjw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcZhXvgWoAAIMjw.png",
+					"url": "https://t.co/Tskejt23n7",
+					"display_url": "pic.twitter.com/Tskejt23n7",
+					"expanded_url": "https://twitter.com/PHausEDU/status/1280849118001131520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 507,
+							"h": 251,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 507,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 507,
+							"h": 251,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280818204550537200,
+					"id_str": "1280818204550537216",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EcZhXvgWoAAIMjw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcZhXvgWoAAIMjw.png",
+					"url": "https://t.co/Tskejt23n7",
+					"display_url": "pic.twitter.com/Tskejt23n7",
+					"expanded_url": "https://twitter.com/PHausEDU/status/1280849118001131520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 507,
+							"h": 251,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 507,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 507,
+							"h": 251,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 473036118,
+			"id_str": "473036118",
+			"name": "Patrick Hausammann",
+			"screen_name": "PHausEDU",
+			"location": "Virginia, USA",
+			"description": "Believer in the power of learners to change the world. \n@UnisonEDU Founder | #EdcampNSV Co-Founder | #GoogleEI (#LAX18) | @VSTE COTY '18 | ASCD EL '19",
+			"url": "https://t.co/SUQwrOqXkc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUQwrOqXkc",
+							"expanded_url": "http://www.phausedu.com",
+							"display_url": "phausedu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4042,
+			"friends_count": 2411,
+			"listed_count": 361,
+			"created_at": "Tue Jan 24 15:36:46 +0000 2012",
+			"favourites_count": 14712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035241054381867008/mR8_JKmo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035241054381867008/mR8_JKmo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/473036118/1546567689",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#virtualvste has a draft schedule out, registration is still open, and you can still add your awesomeness to the playground collection!!\n\nThis will be amazing!!\nhttps://t.co/xwH1fZvFoJ\n\n@vste @edtechcs @timmmmyboy @witchyrichy @thewrightleader @pattersonaubrey @awfrench1 https://t.co/Tskejt23n7"
+	},
+	{
 		"created_at": "Tue Jul 07 12:01:26 +0000 2020",
 		"id": 1280471988474187800,
 		"id_str": "1280471988474187777",
