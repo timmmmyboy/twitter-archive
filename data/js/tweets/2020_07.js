@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 20:17:16 +0000 2020",
+		"id": 1285278534450077700,
+		"id_str": "1285307809152802816",
+		"full_text": "A Domain of One’s Own Meetup this week:\n📅 Thursday, July 23, 2020 at 10:30 AM Pacific \n#DoOO #edtechchat #literacies #higherED #dh #ds106 #WPCampus #OpenScience #clmooc #DigPed #altc #PhDChat #IndieWeb [more...]\nhttps://t.co/uZY0eAK49T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "edtechchat",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "literacies",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "higherED",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "dh",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "ds106",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "WPCampus",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "OpenScience",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "clmooc",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "DigPed",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "PhDChat",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "IndieWeb",
+					"indices": [
+						192,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uZY0eAK49T",
+					"expanded_url": "https://boffosocko.com/2020/07/11/a-domain-of-ones-own-meetup-july-23-2020/",
+					"display_url": "boffosocko.com/2020/07/11/a-d…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13645402,
+			"id_str": "13645402",
+			"name": "Chris Aldrich",
+			"screen_name": "ChrisAldrich",
+			"location": "Los Angeles, CA",
+			"description": "Biomedical Engineer https://t.co/uGb8fgcbqS\ninformation theory, complexity, math, #IndieWeb, journalism, education, mnemotechny\n(he/him)",
+			"url": "https://t.co/t2BB0UVpFg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t2BB0UVpFg",
+							"expanded_url": "https://www.boffosocko.com",
+							"display_url": "boffosocko.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uGb8fgcbqS",
+							"expanded_url": "https://wiki.chrisaldrich.net/Main_Page",
+							"display_url": "wiki.chrisaldrich.net/Main_Page",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2480,
+			"friends_count": 4837,
+			"listed_count": 198,
+			"created_at": "Mon Feb 18 22:31:54 +0000 2008",
+			"favourites_count": 13952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "303246",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/890299009381916672/CafdvvxN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/890299009381916672/CafdvvxN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13645402/1396990455",
+			"profile_link_color": "0C5290",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "A2C3B7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Domain of One’s Own Meetup this week:\n📅 Thursday, July 23, 2020 at 10:30 AM Pacific \n#DoOO #edtechchat #literacies #higherED #dh #ds106 #WPCampus #OpenScience #clmooc #DigPed #altc #PhDChat #IndieWeb [more...]\nhttps://t.co/uZY0eAK49T"
+	},
+	{
 		"created_at": "Sat Jul 18 12:57:53 +0000 2020",
 		"id": 1284472458108702700,
 		"id_str": "1284472458108702729",
