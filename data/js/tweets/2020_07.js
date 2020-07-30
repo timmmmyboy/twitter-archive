@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 14:08:49 +0000 2020",
+		"id": 1288474797203128300,
+		"id_str": "1288476576678645762",
+		"full_text": "Reclaim Hosting Launches PaaS Reclaim Cloud in US, Canada, and the United Kingdom https://t.co/gxV6SP5Fq3 Reclaim Cloud is a container-based server infrastructure that supports a wide-variety of technologies including Docker. Learn more at https://t.co/71gfxFSLhE https://t.co/49yNAEC1Ob",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gxV6SP5Fq3",
+					"expanded_url": "https://reclaimhosting.com/reclaim-hosting-launches-paas-reclaim-cloud-in-us-canada-and-the-united-kingdom/",
+					"display_url": "reclaimhosting.com/reclaim-hostin…",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/71gfxFSLhE",
+					"expanded_url": "https://reclaim.cloud",
+					"display_url": "reclaim.cloud",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288474779230638000,
+					"id_str": "1288474779230638082",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EeGU_C4XkAIFVi_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeGU_C4XkAIFVi_.png",
+					"url": "https://t.co/49yNAEC1Ob",
+					"display_url": "pic.twitter.com/49yNAEC1Ob",
+					"expanded_url": "https://twitter.com/ReclaimHosting/status/1288474797203128325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 761,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 586,
+							"h": 761,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288474779230638000,
+					"id_str": "1288474779230638082",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EeGU_C4XkAIFVi_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeGU_C4XkAIFVi_.png",
+					"url": "https://t.co/49yNAEC1Ob",
+					"display_url": "pic.twitter.com/49yNAEC1Ob",
+					"expanded_url": "https://twitter.com/ReclaimHosting/status/1288474797203128325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 761,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 586,
+							"h": 761,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1602053274,
+			"id_str": "1602053274",
+			"name": "Reclaim Hosting",
+			"screen_name": "ReclaimHosting",
+			"location": "",
+			"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.\n@DomainsConf",
+			"url": "https://t.co/7YLSpKrSJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YLSpKrSJW",
+							"expanded_url": "https://reclaimhosting.com",
+							"display_url": "reclaimhosting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1723,
+			"friends_count": 267,
+			"listed_count": 52,
+			"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1524002583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reclaim Hosting Launches PaaS Reclaim Cloud in US, Canada, and the United Kingdom https://t.co/gxV6SP5Fq3 Reclaim Cloud is a container-based server infrastructure that supports a wide-variety of technologies including Docker. Learn more at https://t.co/71gfxFSLhE https://t.co/49yNAEC1Ob"
+	},
+	{
 		"created_at": "Tue Jul 28 20:02:19 +0000 2020",
 		"id": 1288203152873881600,
 		"id_str": "1288203152873881601",
