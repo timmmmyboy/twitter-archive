@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 23:54:59 +0000 2020",
+		"id": 1304566109564215300,
+		"id_str": "1304569157149765634",
+		"full_text": "Live From a Button-filled Studio – And He Does Blog  https://t.co/rvlEqBNKfd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rvlEqBNKfd",
+					"expanded_url": "https://andheblogs.andyrush.net/live-from-a-button-filled-studio/",
+					"display_url": "andheblogs.andyrush.net/live-from-a-bu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743493,
+			"id_str": "743493",
+			"name": "Andy Rush",
+			"screen_name": "rushaw",
+			"location": "Jacksonville, FL",
+			"description": "Course Media Developer at the Center for Instruction & Research Technology at the University of North Florida",
+			"url": "https://t.co/WjpE4ni5wm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WjpE4ni5wm",
+							"expanded_url": "https://andheblogs.andyrush.net",
+							"display_url": "andheblogs.andyrush.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 298,
+			"listed_count": 75,
+			"created_at": "Thu Feb 01 14:57:52 +0000 2007",
+			"favourites_count": 1257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A8AB9B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050093213942345728/SLfXh355_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050093213942345728/SLfXh355_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743493/1398196765",
+			"profile_link_color": "172A38",
+			"profile_sidebar_border_color": "E0C590",
+			"profile_sidebar_fill_color": "F48773",
+			"profile_text_color": "EC4B5D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live From a Button-filled Studio – And He Does Blog  https://t.co/rvlEqBNKfd"
+	},
+	{
+		"created_at": "Fri Sep 11 17:30:45 +0000 2020",
+		"id": 1304472461711417300,
+		"id_str": "1304472461711417345",
+		"full_text": "@JRDingwall @jimgroom It’s coming together and going to be a pretty fun space to create things in!",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1304471233409372200,
+		"in_reply_to_status_id_str": "1304471233409372161",
+		"in_reply_to_user_id": 141806761,
+		"in_reply_to_user_id_str": "141806761",
+		"in_reply_to_screen_name": "JRDingwall",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 290,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JRDingwall @jimgroom It’s coming together and going to be a pretty fun space to create things in!"
+	},
+	{
 		"created_at": "Thu Sep 10 20:41:15 +0000 2020",
 		"id": 1304158014291816400,
 		"id_str": "1304158014291816448",
