@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 11:49:45 +0000 2020",
+		"id": 1317432610214260700,
+		"id_str": "1317432610214260738",
+		"full_text": "It’s about to get all spooky up in here! https://t.co/hsdduBEyEs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hsdduBEyEs",
+					"expanded_url": "https://twitter.com/DrGarcia/status/1317294043508789248",
+					"display_url": "twitter.com/DrGarcia/statu…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367,
+			"friends_count": 293,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1317294043508789200,
+		"quoted_status_id_str": "1317294043508789248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hsdduBEyEs",
+			"expanded": "https://twitter.com/DrGarcia/status/1317294043508789248",
+			"display": "twitter.com/DrGarcia/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 17 02:39:08 +0000 2020",
+			"id": 1317294043508789200,
+			"id_str": "1317294043508789248",
+			"full_text": "Four more sleeps until I'll be on the ground for the Third Annual Owen's Manor Halloween Extravaganza and more.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19897497,
+				"id_str": "19897497",
+				"name": "GNA Garcia",
+				"screen_name": "DrGarcia",
+				"location": "Crescent City, CA",
+				"description": "Looking backwards and forwards, and still wondering.",
+				"url": "https://t.co/NggqAPuYJI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NggqAPuYJI",
+								"expanded_url": "http://www.gnagarcia.wordpress.com",
+								"display_url": "gnagarcia.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1179,
+				"friends_count": 350,
+				"listed_count": 108,
+				"created_at": "Mon Feb 02 07:42:51 +0000 2009",
+				"favourites_count": 9353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 83157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232429961903951874/3KHLx7tN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232429961903951874/3KHLx7tN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19897497/1577170181",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c0f3c245d5046c11",
+				"url": "https://api.twitter.com/1.1/geo/id/c0f3c245d5046c11.json",
+				"place_type": "city",
+				"name": "Crescent City North",
+				"full_name": "Crescent City North, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-124.243388,
+								41.751074
+							],
+							[
+								-124.1872103,
+								41.751074
+							],
+							[
+								-124.1872103,
+								41.773124
+							],
+							[
+								-124.243388,
+								41.773124
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s about to get all spooky up in here! https://t.co/hsdduBEyEs"
+	},
+	{
 		"created_at": "Sat Oct 17 00:52:05 +0000 2020",
 		"id": 1317267103012032500,
 		"id_str": "1317267103012032512",
