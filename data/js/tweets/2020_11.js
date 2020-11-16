@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 05:44:40 +0000 2020",
+		"id": 1327849982871875600,
+		"id_str": "1327849982871875586",
+		"full_text": "@eliast05 @jimgroom @reclaimvideo I’m biased, but it is a magical place. Can’t wait for others to experience it.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliast05",
+					"name": "Tanya",
+					"id": 206925887,
+					"id_str": "206925887",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "reclaimvideo",
+					"name": "Reclaim Video",
+					"id": 885452192047648800,
+					"id_str": "885452192047648768",
+					"indices": [
+						20,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1327849370654363600,
+		"in_reply_to_status_id_str": "1327849370654363648",
+		"in_reply_to_user_id": 206925887,
+		"in_reply_to_user_id_str": "206925887",
+		"in_reply_to_screen_name": "eliast05",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eliast05 @jimgroom @reclaimvideo I’m biased, but it is a magical place. Can’t wait for others to experience it."
+	},
+	{
 		"created_at": "Tue Nov 10 03:50:48 +0000 2020",
 		"id": 1326009388658806800,
 		"id_str": "1326009388658806785",
