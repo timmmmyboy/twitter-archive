@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 00:10:13 +0000 2020",
+		"id": 1331389693229985800,
+		"id_str": "1331389693229985792",
+		"full_text": "@floatingtim It’s pretty awesome to me to think that you’ve played a game in my office that you’ve never seen in person. :D",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "floatingtim",
+					"name": "Tim C wears a mask",
+					"id": 18892030,
+					"id_str": "18892030",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1331376607882326000,
+		"in_reply_to_status_id_str": "1331376607882326017",
+		"in_reply_to_user_id": 18892030,
+		"in_reply_to_user_id_str": "18892030",
+		"in_reply_to_screen_name": "floatingtim",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370,
+			"friends_count": 292,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@floatingtim It’s pretty awesome to me to think that you’ve played a game in my office that you’ve never seen in person. :D"
+	},
+	{
+		"created_at": "Tue Nov 24 18:54:35 +0000 2020",
+		"id": 1331248533526225000,
+		"id_str": "1331310262461239301",
+		"full_text": "LIMITED EDITION #AVENGERS INFINITY QUEST #Pinball Machine!🤯💥\n\nThe first publicly available internet controlled pinball machine on https://t.co/FzJ7m9i21Z located in #USA.🇺🇸\n\nThank you @ReclaimArcade for connecting it now\n GO PLAY!!👉🏼 https://t.co/Tf5WQhmZv2\n\n@sternpinballinc https://t.co/Ws54SJbJsv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AVENGERS",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"text": "Pinball",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "USA",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimArcade",
+					"name": "Reclaim Arcade",
+					"id": 1174481114192384000,
+					"id_str": "1174481114192384000",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"screen_name": "sternpinballinc",
+					"name": "Stern Pinball",
+					"id": 135688569,
+					"id_str": "135688569",
+					"indices": [
+						259,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FzJ7m9i21Z",
+					"expanded_url": "http://Surrogate.tv",
+					"display_url": "Surrogate.tv",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/Tf5WQhmZv2",
+					"expanded_url": "http://www.surrogate.tv/game/avengers",
+					"display_url": "surrogate.tv/game/avengers",
+					"indices": [
+						234,
+						257
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331248359777198000,
+					"id_str": "1331248359777198080",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331248359777198080/pu/img/lY3K_i3ugGb5sBxL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331248359777198080/pu/img/lY3K_i3ugGb5sBxL.jpg",
+					"url": "https://t.co/Ws54SJbJsv",
+					"display_url": "pic.twitter.com/Ws54SJbJsv",
+					"expanded_url": "https://twitter.com/SurrogateTV/status/1331248533526224897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331248359777198000,
+					"id_str": "1331248359777198080",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331248359777198080/pu/img/lY3K_i3ugGb5sBxL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331248359777198080/pu/img/lY3K_i3ugGb5sBxL.jpg",
+					"url": "https://t.co/Ws54SJbJsv",
+					"display_url": "pic.twitter.com/Ws54SJbJsv",
+					"expanded_url": "https://twitter.com/SurrogateTV/status/1331248533526224897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27861,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1331248359777198080/pu/vid/720x720/0QQLvAEBdF4x6Tjx.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1331248359777198080/pu/vid/320x320/Si8JaNqoM0Qy_GCU.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1331248359777198080/pu/vid/480x480/K1pH_Qe8QPGFHwyG.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1331248359777198080/pu/pl/MwrmHcI5M2rPaftG.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1103615273624653800,
+			"id_str": "1103615273624653825",
+			"name": "Surrogate.tv",
+			"screen_name": "SurrogateTV",
+			"location": "Espoo, Finland",
+			"description": "🕹 We have over 20,000 monthly players!\n🎮 Play real-life games over the internet!  #SurrogateTV\n👉🏼 Join our community on #Discord - https://t.co/TgVtZkwOZO",
+			"url": "https://t.co/zqCi0PAHkm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zqCi0PAHkm",
+							"expanded_url": "https://surrogate.tv",
+							"display_url": "surrogate.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TgVtZkwOZO",
+							"expanded_url": "http://discord.gg/surrogatetv",
+							"display_url": "discord.gg/surrogatetv",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 449,
+			"friends_count": 375,
+			"listed_count": 2,
+			"created_at": "Thu Mar 07 11:16:00 +0000 2019",
+			"favourites_count": 514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159081927695110145/UD3-IxZB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159081927695110145/UD3-IxZB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1103615273624653825/1565181685",
+			"profile_link_color": "DB4197",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIMITED EDITION #AVENGERS INFINITY QUEST #Pinball Machine!🤯💥\n\nThe first publicly available internet controlled pinball machine on https://t.co/FzJ7m9i21Z located in #USA.🇺🇸\n\nThank you @ReclaimArcade for connecting it now\n GO PLAY!!👉🏼 https://t.co/Tf5WQhmZv2\n\n@sternpinballinc https://t.co/Ws54SJbJsv"
+	},
+	{
+		"created_at": "Tue Nov 24 16:02:44 +0000 2020",
+		"id": 1331267015827452000,
+		"id_str": "1331267015827451907",
+		"full_text": "@grantpotter It’s kind of the perfect crossover for Reclaim, right?! Haha",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grantpotter",
+					"name": "Grant Potter",
+					"id": 6271482,
+					"id_str": "6271482",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1331266690257129500,
+		"in_reply_to_status_id_str": "1331266690257129474",
+		"in_reply_to_user_id": 6271482,
+		"in_reply_to_user_id_str": "6271482",
+		"in_reply_to_screen_name": "grantpotter",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370,
+			"friends_count": 292,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@grantpotter It’s kind of the perfect crossover for Reclaim, right?! Haha"
+	},
+	{
 		"created_at": "Tue Nov 17 23:28:23 +0000 2020",
 		"id": 1328842450652323800,
 		"id_str": "1328842450652323840",
