@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 00:07:08 +0000 2020",
+		"id": 1342260554497454000,
+		"id_str": "1342260554497454082",
+		"full_text": "@DrGarcia This is fun (and funny) and I have a new account to follow here https://t.co/ou5HB3gSU0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrGarcia",
+					"name": "GNA Garcia",
+					"id": 19897497,
+					"id_str": "19897497",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ou5HB3gSU0",
+					"expanded_url": "https://twitter.com/HistoryMuppet/status/1337145122367152131",
+					"display_url": "twitter.com/HistoryMuppet/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 19897497,
+		"in_reply_to_user_id_str": "19897497",
+		"in_reply_to_screen_name": "DrGarcia",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337145122367152000,
+		"quoted_status_id_str": "1337145122367152131",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ou5HB3gSU0",
+			"expanded": "https://twitter.com/HistoryMuppet/status/1337145122367152131",
+			"display": "twitter.com/HistoryMuppet/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 21:20:14 +0000 2020",
+			"id": 1337145122367152000,
+			"id_str": "1337145122367152131",
+			"full_text": "Here it is: the beloved bloopers from Emmet Otter's Jug-Band Christmas, now with subtitles. 🎄\n\nEnjoy the comedic genius of Frank Oz and Jerry Nelson. ❤️ https://t.co/pXrmjdLWxK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1337144374891786200,
+						"id_str": "1337144374891786240",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337144374891786240/pu/img/xt_GtV_CDFuuhVZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337144374891786240/pu/img/xt_GtV_CDFuuhVZU.jpg",
+						"url": "https://t.co/pXrmjdLWxK",
+						"display_url": "pic.twitter.com/pXrmjdLWxK",
+						"expanded_url": "https://twitter.com/HistoryMuppet/status/1337145122367152131/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 946,
+								"h": 532,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 532,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1337144374891786200,
+						"id_str": "1337144374891786240",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337144374891786240/pu/img/xt_GtV_CDFuuhVZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337144374891786240/pu/img/xt_GtV_CDFuuhVZU.jpg",
+						"url": "https://t.co/pXrmjdLWxK",
+						"display_url": "pic.twitter.com/pXrmjdLWxK",
+						"expanded_url": "https://twitter.com/HistoryMuppet/status/1337145122367152131/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 946,
+								"h": 532,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 532,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								473,
+								266
+							],
+							"duration_millis": 127995,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1337144374891786240/pu/vid/480x270/xZe7MfsKqH2oMJL5.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1337144374891786240/pu/vid/640x360/5gktb11lrPqnD4VV.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1337144374891786240/pu/pl/MJhGKSxvBB3BsaaG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1337144374891786240/pu/vid/946x532/NHs1CPXAF-HPBtf9.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1049365727705288700,
+				"id_str": "1049365727705288704",
+				"name": "❄️ Muppet History 🎄",
+				"screen_name": "HistoryMuppet",
+				"location": "",
+				"description": "Continuing the spirit and silliness of Jim Henson! NOT affiliated with Henson or Disney. (He/Him) Created by @HalfHearted_JG Contact: MuppetHistory@outlook.com",
+				"url": "https://t.co/y9916NTqJS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y9916NTqJS",
+								"expanded_url": "https://linktr.ee/MuppetHistory",
+								"display_url": "linktr.ee/MuppetHistory",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 161448,
+				"friends_count": 1224,
+				"listed_count": 0,
+				"created_at": "Mon Oct 08 18:27:40 +0000 2018",
+				"favourites_count": 40434,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16908,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1333790169330118658/EMc3Yvhf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333790169330118658/EMc3Yvhf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049365727705288704/1606930929",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5796,
+			"favorite_count": 19299,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrGarcia This is fun (and funny) and I have a new account to follow here https://t.co/ou5HB3gSU0"
+	},
+	{
 		"created_at": "Fri Dec 18 22:42:35 +0000 2020",
 		"id": 1340064947280212000,
 		"id_str": "1340064947280211969",
