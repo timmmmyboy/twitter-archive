@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 30 17:26:30 +0000 2020",
+		"id": 1344334055475712000,
+		"id_str": "1344334055475712001",
+		"full_text": "@rushaw @noiseprofessor Taking applications for donor names now.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rushaw",
+					"name": "Andy Rush",
+					"id": 743493,
+					"id_str": "743493",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "noiseprofessor",
+					"name": "Zack Dowell",
+					"id": 23041881,
+					"id_str": "23041881",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1344311949438365700,
+		"in_reply_to_status_id_str": "1344311949438365696",
+		"in_reply_to_user_id": 743493,
+		"in_reply_to_user_id_str": "743493",
+		"in_reply_to_screen_name": "rushaw",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rushaw @noiseprofessor Taking applications for donor names now."
+	},
+	{
+		"created_at": "Wed Dec 30 14:10:29 +0000 2020",
+		"id": 1344284727142973400,
+		"id_str": "1344284727142973443",
+		"full_text": "@noiseprofessor @lightforminc Lightform looks sick! I was lucky in that I only had to seam 3 projectors together but surface was completely flat wall but camera/projector in one with software enhancing it is awesome concept.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noiseprofessor",
+					"name": "Zack Dowell",
+					"id": 23041881,
+					"id_str": "23041881",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "lightforminc",
+					"name": "Lightform",
+					"id": 2799991075,
+					"id_str": "2799991075",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1344280545174421500,
+		"in_reply_to_status_id_str": "1344280545174421505",
+		"in_reply_to_user_id": 23041881,
+		"in_reply_to_user_id_str": "23041881",
+		"in_reply_to_screen_name": "noiseprofessor",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@noiseprofessor @lightforminc Lightform looks sick! I was lucky in that I only had to seam 3 projectors together but surface was completely flat wall but camera/projector in one with software enhancing it is awesome concept."
+	},
+	{
+		"created_at": "Wed Dec 30 14:06:48 +0000 2020",
+		"id": 1344283802814853000,
+		"id_str": "1344283802814853121",
+		"full_text": "@noiseprofessor Absolutely! I’m just now dialing in what the resolution is (somewhere in the realm of 4730x1080). I love the idea of soliciting artwork from anybody and putting it up there. A big sticker wall of community-sourced art!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noiseprofessor",
+					"name": "Zack Dowell",
+					"id": 23041881,
+					"id_str": "23041881",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1344280545174421500,
+		"in_reply_to_status_id_str": "1344280545174421505",
+		"in_reply_to_user_id": 23041881,
+		"in_reply_to_user_id_str": "23041881",
+		"in_reply_to_screen_name": "noiseprofessor",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@noiseprofessor Absolutely! I’m just now dialing in what the resolution is (somewhere in the realm of 4730x1080). I love the idea of soliciting artwork from anybody and putting it up there. A big sticker wall of community-sourced art!"
+	},
+	{
+		"created_at": "Wed Dec 30 02:04:50 +0000 2020",
+		"id": 1344102112192573400,
+		"id_str": "1344102112192573440",
+		"full_text": "@reeveskd I SAID GOOD DAY SIR!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reeveskd",
+					"name": "Keith Reeves",
+					"id": 51639960,
+					"id_str": "51639960",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1344100130975346700,
+		"in_reply_to_status_id_str": "1344100130975346688",
+		"in_reply_to_user_id": 51639960,
+		"in_reply_to_user_id_str": "51639960",
+		"in_reply_to_screen_name": "reeveskd",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@reeveskd I SAID GOOD DAY SIR!"
+	},
+	{
+		"created_at": "Wed Dec 30 01:58:33 +0000 2020",
+		"id": 1344100531002867700,
+		"id_str": "1344100531002867712",
+		"full_text": "Come at me 2021 https://t.co/UeA9bJ24tK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344100527731302400,
+					"id_str": "1344100527731302400",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqc0TwHW4AAaNtv.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eqc0TwHW4AAaNtv.png",
+					"url": "https://t.co/UeA9bJ24tK",
+					"display_url": "pic.twitter.com/UeA9bJ24tK",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1344100531002867712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344100527731302400,
+					"id_str": "1344100527731302400",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqc0TwHW4AAaNtv.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eqc0TwHW4AAaNtv.png",
+					"url": "https://t.co/UeA9bJ24tK",
+					"display_url": "pic.twitter.com/UeA9bJ24tK",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1344100531002867712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come at me 2021 https://t.co/UeA9bJ24tK"
+	},
+	{
 		"created_at": "Tue Dec 29 22:48:50 +0000 2020",
 		"id": 1344052788083482600,
 		"id_str": "1344052788083482626",
