@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 19:22:23 +0000 2021",
+		"id": 1351610660489191400,
+		"id_str": "1351610976903307268",
+		"full_text": "We had a blast inviting Clint and Shari Novak to get the sneak peek on our new space and show you all what we're bringing to the Burg! We're counting down the days to travelling back in time with all of you :) https://t.co/d8gAV8qona",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d8gAV8qona",
+					"expanded_url": "https://youtu.be/hD1J9cyL3RA",
+					"display_url": "youtu.be/hD1J9cyL3RA",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174481114192384000,
+			"id_str": "1174481114192384000",
+			"name": "Reclaim Arcade",
+			"screen_name": "ReclaimArcade",
+			"location": "Fredericksburg, Virginia",
+			"description": "Reclaim Arcade is a unique retro-modern entertainment venue merging popular vintage arcade games and pinball of the 70s, 80s, and 90s with a modern atmosphere.",
+			"url": "https://t.co/FsOdkzvbyk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FsOdkzvbyk",
+							"expanded_url": "https://reclaimarcade.com",
+							"display_url": "reclaimarcade.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Thu Sep 19 00:31:45 +0000 2019",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189579448678584321/fVH5bAI1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189579448678584321/fVH5bAI1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174481114192384000/1609452644",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We had a blast inviting Clint and Shari Novak to get the sneak peek on our new space and show you all what we're bringing to the Burg! We're counting down the days to travelling back in time with all of you :) https://t.co/d8gAV8qona"
+	},
+	{
 		"created_at": "Mon Jan 11 12:51:02 +0000 2021",
 		"id": 1348613390294515700,
 		"id_str": "1348613390294515714",
