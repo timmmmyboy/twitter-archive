@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 23:05:00 +0000 2022",
+		"id": 1483576185317691400,
+		"id_str": "1483576185317691398",
+		"full_text": "@jimgroom @Todd_Conaway @LisaMLane @zackdowell @tidmarshm @bryanjack @cogdog Still playing with 3D printing today :) https://t.co/6gHrGlN4wQ",
+		"truncated": false,
+		"display_text_range": [
+			77,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "LisaMLane",
+					"name": "📖 𝐋𝐢𝐬𝐚 𝐌 𝐋𝐚𝐧𝐞 🕰️",
+					"id": 7636002,
+					"id_str": "7636002",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "zackdowell",
+					"name": "Zack Dowell",
+					"id": 10078892,
+					"id_str": "10078892",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "tidmarshm",
+					"name": "Grateful Ted",
+					"id": 57959236,
+					"id_str": "57959236",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "bryanjack",
+					"name": "Bryan Jackson",
+					"id": 24774254,
+					"id_str": "24774254",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6gHrGlN4wQ",
+					"expanded_url": "https://www.youtube.com/watch?v=KHE4jQk36Nc",
+					"display_url": "youtube.com/watch?v=KHE4jQ…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1483571384043376600,
+		"in_reply_to_status_id_str": "1483571384043376641",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 380,
+			"friends_count": 134,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jimgroom @Todd_Conaway @LisaMLane @zackdowell @tidmarshm @bryanjack @cogdog Still playing with 3D printing today :) https://t.co/6gHrGlN4wQ"
+	},
+	{
+		"created_at": "Tue Jan 18 23:04:07 +0000 2022",
+		"id": 1483575960578494500,
+		"id_str": "1483575960578494464",
+		"full_text": "@jimgroom @Todd_Conaway @LisaMLane @zackdowell @tidmarshm @bryanjack @cogdog The Thing-O-Matic!",
+		"truncated": false,
+		"display_text_range": [
+			77,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Todd_Conaway",
+					"name": "Todd Conaway",
+					"id": 7664302,
+					"id_str": "7664302",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "LisaMLane",
+					"name": "📖 𝐋𝐢𝐬𝐚 𝐌 𝐋𝐚𝐧𝐞 🕰️",
+					"id": 7636002,
+					"id_str": "7636002",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "zackdowell",
+					"name": "Zack Dowell",
+					"id": 10078892,
+					"id_str": "10078892",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "tidmarshm",
+					"name": "Grateful Ted",
+					"id": 57959236,
+					"id_str": "57959236",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "bryanjack",
+					"name": "Bryan Jackson",
+					"id": 24774254,
+					"id_str": "24774254",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1483571384043376600,
+		"in_reply_to_status_id_str": "1483571384043376641",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 1025923491495903200,
+			"id_str": "1025923491495903232",
+			"name": "timmmmyboy",
+			"screen_name": "timmmmyboy",
+			"location": "Fredericksburg, VA",
+			"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+			"url": "https://t.co/WRb8RPVfpf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WRb8RPVfpf",
+							"expanded_url": "https://blog.timowens.io",
+							"display_url": "blog.timowens.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 380,
+			"friends_count": 134,
+			"listed_count": 5,
+			"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+			"favourites_count": 1050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jimgroom @Todd_Conaway @LisaMLane @zackdowell @tidmarshm @bryanjack @cogdog The Thing-O-Matic!"
+	},
+	{
 		"created_at": "Mon Jan 17 22:25:25 +0000 2022",
 		"id": 1483203836466630700,
 		"id_str": "1483203836466630667",
